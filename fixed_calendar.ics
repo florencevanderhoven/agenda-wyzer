@@ -29,232 +29,12 @@ DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260319
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:9
 LOCATION:
 X-MICROSOFT-CDO-APPT-SEQUENCE:9
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:1
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/36179058872335?p=YBZDSwqhNRPRZ1PlTq\nVergadering-id: 361 790 588 723 35\nWachtwoordcode: MH7hG2sK\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGFjMGM3NWYtNGVmMi00OTM5LTg2MzItNjczOTE4YTdmZmYw%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%22b6c7fe22-98f0-419c-8b43-c996ad54ef29%22%7d>\nInbellen via telefoon\n+31 20 258 8508\,\,576228446#<tel:+31202588508\,\,576228446#> Nederland\, Amsterdam\nEen lokaal nummer zoeken<https://dialin.teams.microsoft.com/043d25bb-1959-4402-8a7b-c3a881fc259a?id=576228446>\nTelefonische vergadering-id: 576 228 446#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=b6c7fe22-98f0-419c-8b43-c996ad54ef29&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_ZGFjMGM3NWYtNGVmMi00OTM5LTg2MzItNjczOTE4YTdmZmYw@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n
-UID:040000008200E00074C5B7101A82E008000000006F483F59F7B2DC010000000000000000100000004F62868C93FBCB4598D9847D301CDB3A
-SUMMARY:Inhousedag voorbereiden
-DTSTART;TZID=W. Europe Standard Time:20260318T090000
-DTEND;TZID=W. Europe Standard Time:20260318T100000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260418T185241Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:Vergaderruimte 1.1 (gebouw D\, 1e verdieping) (NL)
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dnl-NL&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7C5eea4e383ace4e738d5b08de58cb7655%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639045828043638076%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=4xQPAFBoO2uXI3GnwViUoKDNbAiO%2BAoNqky16TGrTTQ%3D&reserved=0>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjk3NDU5NjUtMmQ5Yy00OThhLWFlMTgtMjQxOTBiYjc1MWVl%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%22527d212c-68f3-4f4c-b126-bda8f199c4e1%22%7d>\nVergadering-id: 362 905 723 580 03\nWachtwoordcode: aL2CG6aG\n________________________________\nInbellen via telefoon\n+32 50 89 17 84\,\,178462392#<tel:+3250891784\,\,178462392> België\, Brugge\nEen lokaal nummer zoeken<https://dialin.teams.microsoft.com/043d25bb-1959-4402-8a7b-c3a881fc259a?id=178462392>\nTelefonische vergadering-id: 178 462 392#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=527d212c-68f3-4f4c-b126-bda8f199c4e1&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_Zjk3NDU5NjUtMmQ5Yy00OThhLWFlMTgtMjQxOTBiYjc1MWVl@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n\n
-UID:040000008200E00074C5B7101A82E00800000000B9BA98BEDB7FDC01000000000000000010000000DA8F2C9E186E7F4F835BB25124DD158F
-RECURRENCE-ID;TZID=W. Europe Standard Time:20260318T100000
-SUMMARY:Procesteam Coaching-\, Begeleiding- & Intervisie
-DTSTART;TZID=W. Europe Standard Time:20260318T100000
-DTEND;TZID=W. Europe Standard Time:20260318T110000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260418T185241Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:3
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-APPT-SEQUENCE:3
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:3
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dnl-NL&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7C5eea4e383ace4e738d5b08de58cb7655%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639045828043638076%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=4xQPAFBoO2uXI3GnwViUoKDNbAiO%2BAoNqky16TGrTTQ%3D&reserved=0>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjk3NDU5NjUtMmQ5Yy00OThhLWFlMTgtMjQxOTBiYjc1MWVl%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%22527d212c-68f3-4f4c-b126-bda8f199c4e1%22%7d>\nVergadering-id: 362 905 723 580 03\nWachtwoordcode: aL2CG6aG\n________________________________\nInbellen via telefoon\n+32 50 89 17 84\,\,178462392#<tel:+3250891784\,\,178462392> België\, Brugge\nEen lokaal nummer zoeken<https://dialin.teams.microsoft.com/043d25bb-1959-4402-8a7b-c3a881fc259a?id=178462392>\nTelefonische vergadering-id: 178 462 392#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=527d212c-68f3-4f4c-b126-bda8f199c4e1&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_Zjk3NDU5NjUtMmQ5Yy00OThhLWFlMTgtMjQxOTBiYjc1MWVl@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n\n
-RRULE:FREQ=WEEKLY;UNTIL=20260930T080000Z;INTERVAL=4;BYDAY=WE;WKST=SU
-EXDATE;TZID=W. Europe Standard Time:20260513T100000
-UID:040000008200E00074C5B7101A82E00800000000B9BA98BEDB7FDC01000000000000000010000000DA8F2C9E186E7F4F835BB25124DD158F
-SUMMARY:Procesteam Coaching-\, Begeleiding- & Intervisie
-DTSTART;TZID=W. Europe Standard Time:20260318T100000
-DTEND;TZID=W. Europe Standard Time:20260318T110000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260418T185241Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:3
-LOCATION:Microsoft Teams Meeting
-X-MICROSOFT-CDO-APPT-SEQUENCE:3
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:1
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n\n
-UID:040000008200E00074C5B7101A82E00800000000303573F2B3B6DC010000000000000000100000001A929F8FFA9ED24DA0378EBEB00C786F
-SUMMARY:Florence/ Isa voorbereiden MS Teams
-DTSTART;TZID=W. Europe Standard Time:20260318T110000
-DTEND;TZID=W. Europe Standard Time:20260318T113000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260418T185241Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:Vergaderruimte 1.2 (gebouw D\, 1e verdieping)
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/37496586892571?p=nJz4MezfWaVKS3fgdq\nVergadering-id: 374 965 868 925 71\nWachtwoordcode: Px2Xb6wD\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ2YzQyOGQtNGZmZi00OTMxLWIwYTYtOGViZjllNWY2MTVj%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%22b6c7fe22-98f0-419c-8b43-c996ad54ef29%22%7d>\nInbellen via telefoon\n+31 20 258 8508\,\,887104868#<tel:+31202588508\,\,887104868#> Nederland\, Amsterdam\nEen lokaal nummer zoeken<https://dialin.teams.microsoft.com/043d25bb-1959-4402-8a7b-c3a881fc259a?id=887104868>\nTelefonische vergadering-id: 887 104 868#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=b6c7fe22-98f0-419c-8b43-c996ad54ef29&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_YWQ2YzQyOGQtNGZmZi00OTMxLWIwYTYtOGViZjllNWY2MTVj@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n
-UID:040000008200E00074C5B7101A82E008000000004F14151D58B1DC010000000000000000100000000200730C62AD9A4FA30F734F748D4C03
-SUMMARY:Nieuwe indeling en procesafspraken teamsomgeving 
-DTSTART;TZID=W. Europe Standard Time:20260318T113000
-DTEND;TZID=W. Europe Standard Time:20260318T120000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260418T185241Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:1
-LOCATION:Microsoft Teams-vergadering\; Vergaderruimte 1.1 (gebouw D\, 1e verdieping)
-X-MICROSOFT-CDO-APPT-SEQUENCE:1
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/36377517541507?p=GSse6p1mrRFz03Lnsv\nVergadering-id: 363 775 175 415 07\nWachtwoordcode: Nd7gQ37T\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjNlYjBiZWYtMWE3OC00Y2Q2LWI5YTAtZjM0MmIyYjI3NDMw%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%22b6c7fe22-98f0-419c-8b43-c996ad54ef29%22%7d>\nInbellen via telefoon\n+31 20 258 8508\,\,84185913#<tel:+31202588508\,\,84185913#> Nederland\, Amsterdam\nEen lokaal nummer zoeken<https://dialin.teams.microsoft.com/043d25bb-1959-4402-8a7b-c3a881fc259a?id=84185913>\nTelefonische vergadering-id: 841 859 13#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=b6c7fe22-98f0-419c-8b43-c996ad54ef29&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_ZjNlYjBiZWYtMWE3OC00Y2Q2LWI5YTAtZjM0MmIyYjI3NDMw@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n
-UID:040000008200E00074C5B7101A82E00800000000021F6CEADBABDC010000000000000000100000003751A472DF3EFE4EB5D776FC7C0E6FAF
-SUMMARY:Lunchen en wandelen/bijpraten
-DTSTART;TZID=W. Europe Standard Time:20260318T120000
-DTEND;TZID=W. Europe Standard Time:20260318T130000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260418T185241Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:Microsoft Teams-vergadering
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/37780478291909?p=5hEiK4VTdSEhWk8zfE\nVergadering-id: 377 804 782 919 09\nWachtwoordcode: 8Kq6Zu2m\n________________________________\nHeeft u hulp nodig?<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dnl-NL&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Cc757ef4cdd6b4e6ebc5008de80f0ead5%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639089969436376560%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=hzb5IQ7z0hIx8BG3rKQTytsu0klVhZdZSnRotCjfvb0%3D&reserved=0> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzE1ZTkxNTEtOGI0ZC00NDk0LTljNDAtODUyZTVjMGU0OGZl%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%22c135984a-6afc-4570-99f1-59a70c26b864%22%7d>\nInbellen via telefoon\n+32 50 89 17 84\,\,226678565#<tel:+3250891784\,\,226678565#> België\, Brugge\nEen lokaal nummer zoeken<https://dialin.teams.microsoft.com/043d25bb-1959-4402-8a7b-c3a881fc259a?id=226678565>\nTelefonische vergadering-id: 226 678 565#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=c135984a-6afc-4570-99f1-59a70c26b864&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_NzE1ZTkxNTEtOGI0ZC00NDk0LTljNDAtODUyZTVjMGU0OGZl@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n
-UID:040000008200E00074C5B7101A82E00800000000E9B5C5C6D9B2DC010000000000000000100000005AD50B96C2BA0643B6600EEB97D682D1
-SUMMARY:interview Florence
-DTSTART;TZID=W. Europe Standard Time:20260318T130000
-DTEND;TZID=W. Europe Standard Time:20260318T140000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260418T185241Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:Microsoft Teams-vergadering
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/3373813696585?p=caLw4v85QzswIusRsZ\nVergadering-id: 337 381 369 658 5\nWachtwoordcode: wX2cQ2ao\n________________________________\nHeeft u hulp nodig?<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dnl-NL&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7C3ef902d9ddfc4bd73cbe08de810e8382%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639090096526481184%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=P7NisxvzhSw1xy7ql2JuX0wH6tTmec9eSTHimXfljsw%3D&reserved=0> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzNmM2Q5ZmMtYTgxMC00ODlhLTk5YmMtZjM5MGM3ZjJiMmFj%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%22f4dc3e2b-8222-48c9-8415-57b5339f1104%22%7d>\nInbellen via telefoon\n+32 50 89 17 84\,\,7997439#<tel:+3250891784\,\,7997439> België\, Brugge\nEen lokaal nummer zoeken<https://dialin.teams.microsoft.com/043d25bb-1959-4402-8a7b-c3a881fc259a?id=7997439>\nTelefonische vergadering-id: 799 743 9#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=f4dc3e2b-8222-48c9-8415-57b5339f1104&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_MzNmM2Q5ZmMtYTgxMC00ODlhLTk5YmMtZjM5MGM3ZjJiMmFj@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n\n
-UID:040000008200E00074C5B7101A82E00800000000406BF901FFB2DC01000000000000000010000000DD44A0D85BA614409B342BB2C6059375
-SUMMARY:Bundelen inhouse
-DTSTART;TZID=W. Europe Standard Time:20260318T150000
-DTEND;TZID=W. Europe Standard Time:20260318T170000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260418T185241Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:Vergaderruimte 1.1 (gebouw D\, 1e verdieping)
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n\n
-RRULE:FREQ=WEEKLY;UNTIL=20261006T220000Z;INTERVAL=4;BYDAY=WE;WKST=SU
-UID:040000008200E00074C5B7101A82E00800000000F59FD19BDE7FDC010000000000000000100000000D3493186886414EA6B0A15EE0279E42
-SUMMARY:Deadline: aanleveren agendapunten teamoverleg 
-DTSTART;VALUE=DATE:20260325
-DTEND;VALUE=DATE:20260326
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260418T185241Z
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-SEQUENCE:1
-LOCATION:
-X-MICROSOFT-CDO-APPT-SEQUENCE:1
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -274,12 +54,37 @@ DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260326
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:2
 LOCATION:Microsoft Teams-vergadering
 X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\n
+RRULE:FREQ=WEEKLY;UNTIL=20261006T220000Z;INTERVAL=4;BYDAY=WE;WKST=SU
+UID:040000008200E00074C5B7101A82E00800000000F59FD19BDE7FDC010000000000000000100000000D3493186886414EA6B0A15EE0279E42
+SUMMARY:Deadline: aanleveren agendapunten teamoverleg 
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260419T024433Z
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
@@ -298,7 +103,7 @@ DTSTART;TZID=W. Europe Standard Time:20260325T090000
 DTEND;TZID=W. Europe Standard Time:20260325T103000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -323,7 +128,7 @@ DTSTART;TZID=W. Europe Standard Time:20260325T103000
 DTEND;TZID=W. Europe Standard Time:20260325T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:5
@@ -347,7 +152,7 @@ DTSTART;TZID=W. Europe Standard Time:20260325T160000
 DTEND;TZID=W. Europe Standard Time:20260325T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -371,7 +176,7 @@ DTSTART;TZID=W. Europe Standard Time:20260326T153000
 DTEND;TZID=W. Europe Standard Time:20260326T160000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -396,7 +201,7 @@ DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -413,31 +218,6 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Hi Florence\,\n\nDank je! Inmiddels is mij duidelijk geworden dat WAR (wij dus) aanstaande woensdag in Utrecht zitten. Ik heb het er even met Lars en Arjan over gehad.\n\nGroet\,\n\nErwin\n\n________________________________\nVan: Arjan Bout | Wyzer <about@Wyzer.nl>\nVerzonden: maandag 30 maart 2026 15:18:28 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Arjan Bout | Wyzer <about@Wyzer.nl>\; Erwin Riedstra | Wyzer <eriedstra@Wyzer.nl>\; marcus_aalders@hotmail.com <marcus_aalders@hotmail.com>\; Mearedith Alberga | Wyzer <malberga@wyzer.nl>\; lydiaalbinus@stadem.nl <lydiaalbinus@stadem.nl>\; Henk-Jan Alting | Wyzer <halting@wyzer.nl>\; s.vanb33k@gmail.com <s.vanb33k@gmail.com>\; matthijs.bloem93@gmail.com <matthijs.bloem93@gmail.com>\; Thomasterborg@ziggo.nl <Thomasterborg@ziggo.nl>\; Robin Brouwer | Wyzer <rbrouwer@Wyzer.nl>\; amelabuljic@gmail.com <amelabuljic@gmail.com>\; Erik Jan Bult | Wyzer <ejbult@wyzer.nl>\; ylvacaris@gmail.com <ylvacaris@gmail.com>\; Maartje Damen | Wyzer <mhdamen@wyzer.nl>\; jeltedeurwaarder@gmail.com <jeltedeurwaarder@gmail.com>\; neslihan.ergun@hotmail.com <neslihan.ergun@hotmail.com>\; Leander Ernst <lernst@wyzer.nl>\; pepijnester@gmail.com <pepijnester@gmail.com>\; berjandegraaf@live.nl <berjandegraaf@live.nl>\; jobfriso@live.nl <jobfriso@live.nl>\; René Glasbeek | Wyzer <rglasbeek@wyzer.nl>\; dynamie.van.gool@gmail.com <dynamie.van.gool@gmail.com>\; Lukas de Graaf | Wyzer <ldgraaf@wyzer.nl>\; Charityhansen@live.nl <Charityhansen@live.nl>\; Wietsehaveman@hotmail.com <Wietsehaveman@hotmail.com>\; m.heethuis@hetnet.nl <m.heethuis@hetnet.nl>\; michaelheijnss@gmail.com <michaelheijnss@gmail.com>\; Jesse Herrmann | Wyzer <JHerrmann@Wyzer.nl>\; natasja.vanhillo@gmail.com <natasja.vanhillo@gmail.com>\; kim.v.h@hotmail.com <kim.v.h@hotmail.com>\; jasonjabroer@hotmail.com <jasonjabroer@hotmail.com>\; Isa Jansen of Lorkeers | Wyzer <ijansenoflorkeers@wyzer.nl>\; Wilfried de Jong | Wyzer <W.dJong@Wyzer.nl>\; thijskalksma@hotmail.com <thijskalksma@hotmail.com>\; info@wozpro.nl <info@wozpro.nl>\; frankkropman@hotmail.com <frankkropman@hotmail.com>\; Victor Kuik | Wyzer <vkuik@wyzer.nl>\; Hein Lammers | Wyzer <hlammers@Wyzer.nl>\; jordidleeuw@gmail.com <jordidleeuw@gmail.com>\; arthurlievers@hotmail.com <arthurlievers@hotmail.com>\; thomasvanleusen@hotmail.com <thomasvanleusen@hotmail.com>\; Ilse Maandag | Wyzer <imaandag@wyzer.nl>\; erikmattiesing@hotmail.com <erikmattiesing@hotmail.com>\; Meisje Meijer | Wyzer <mmeijer@Wyzer.nl>\; robin@mol.world <robin@mol.world>\; monique.moll@gmail.com <monique.moll@gmail.com>\; Ruben Muis | Wyzer <rmuis@Wyzer.nl>\; h.nieken@gmail.com <h.nieken@gmail.com>\; Rene@uniqueoffice.nl <Rene@uniqueoffice.nl>\; noelle.nijhuis03@hotmail.com <noelle.nijhuis03@hotmail.com>\; Laurens Oudenes | Wyzer <loudenes@wyzer.nl>\; Wesley Paulissen | Wyzer <wpaulissen@wyzer.nl>\; maartenpeeters@live.nl <maartenpeeters@live.nl>\; marieke.peterson@gmail.com <marieke.peterson@gmail.com>\; hester@postma.net <hester@postma.net>\; andrepot@gmail.com <andrepot@gmail.com>\; marissarabelink@live.nl <marissarabelink@live.nl>\; noeruparai@gmail.com <noeruparai@gmail.com>\; patrick_rekers@hotmail.com <patrick_rekers@hotmail.com>\; W_Renger@hotmail.com <W_Renger@hotmail.com>\; erwin@subwijs.nl <erwin@subwijs.nl>\; Stan van Rossum | Wyzer <svrossum@wyzer.nl>\; Marija Scheeve | Wyzer <mscheeve@Wyzer.nl>\; arienscholtens@gmail.com <arienscholtens@gmail.com>\; timsmit4@gmail.com <timsmit4@gmail.com>\; info@sprenkelsconsultancy.nl <info@sprenkelsconsultancy.nl>\; pastallinga@kpnplanet.nl <pastallinga@kpnplanet.nl>\; maxlouisstevens98@gmail.com <maxlouisstevens98@gmail.com>\; jemteunissen@hotmail.com <jemteunissen@hotmail.com>\; jes.tim@outlook.com <jes.tim@outlook.com>\; grietjevanderhoek@hotmail.com <grietjevanderhoek@hotmail.com>\; Florence van der Hoven | Wyzer <fvdhoven@Wyzer.nl>\; daan.vaalt@home.nl <daan.vaalt@home.nl>\; tjitskealine@icloud.com <tjitskealine@icloud.com>\; patricia_veld@live.nl <patricia_veld@live.nl>\; verbraakbas@gmail.com <verbraakbas@gmail.com>\; mark.verhijde@protonmail.com <mark.verhijde@protonmail.com>\; Joris Versteegen | Wyzer <jversteegen@Wyzer.nl>\; erik.visser@eviz.nl <erik.visser@eviz.nl>\; Marc Voorberg | Wyzer <mvoorberg@Wyzer.nl>\; Niels Werner | Wyzer <nwerner@wyzer.nl>\; e.wiering@planet.nl <e.wiering@planet.nl>\; Tim-winkster@hotmail.com <Tim-winkster@hotmail.com>\; kevinwitte@hotmail.nl <kevinwitte@hotmail.nl>\; Daniel van Zee | Wyzer <dvzee@wyzer.nl>\; Sander Zondervan | Wyzer <szondervan@wyzer.nl>\; Sophie Laarman | Wyzer <slaarman@Wyzer.nl>\; Simone Eikelenboom | Wyzer <SEikelenboom@Wyzer.nl>\; Brenda Dannijs | Wyzer <BDannijs@wyzer.nl>\; Milia Bosboom | Wyzer <mbosboom@wyzer.nl>\; Astrid Leermakers-Römkens | Wyzer <aleermakers@wyzer.nl>\; Lars Otsen <LOtsen@Wyzer.nl>\; Sam Kettenis | Wyzer <skettenis@wyzer.nl>\; jentevanlangerak@gmail.com <jentevanlangerak@gmail.com>\; samhendriksen@hotmail.com <samhendriksen@hotmail.com>\nCC: Wyzer Advies Ruimte (WAR) <o365-nlwyz-wyzeradviesruimtewar@wyzer.nl>\; Kevin Witte <kwitte@haarlem.nl>\nOnderwerp: Thuiskomdag Wyzer\nWanneer: woensdag 1 april 2026 09:00-17:00.\nWaar: Utrecht OF Zwolle\n\nHey Erwin\, misschien kan ik hem ook zo delen bedacht ik ineens. Groet\, Florence\n\n________________________________\nVan: Arjan Bout | Wyzer <about@Wyzer.nl>\nVerzonden: vrijdag 20 februari 2026 09:46:34 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Arjan Bout | Wyzer <about@Wyzer.nl>\; marcus_aalders@hotmail.com <marcus_aalders@hotmail.com>\; Mearedith Alberga | Wyzer <malberga@wyzer.nl>\; lydiaalbinus@stadem.nl <lydiaalbinus@stadem.nl>\; Henk-Jan Alting | Wyzer <halting@wyzer.nl>\; s.vanb33k@gmail.com <s.vanb33k@gmail.com>\; matthijs.bloem93@gmail.com <matthijs.bloem93@gmail.com>\; Thomasterborg@ziggo.nl <Thomasterborg@ziggo.nl>\; Robin Brouwer | Wyzer <rbrouwer@Wyzer.nl>\; amelabuljic@gmail.com <amelabuljic@gmail.com>\; Erik Jan Bult | Wyzer <ejbult@wyzer.nl>\; ylvacaris@gmail.com <ylvacaris@gmail.com>\; Maartje Damen | Wyzer <mhdamen@wyzer.nl>\; jeltedeurwaarder@gmail.com <jeltedeurwaarder@gmail.com>\; neslihan.ergun@hotmail.com <neslihan.ergun@hotmail.com>\; Leander Ernst <lernst@wyzer.nl>\; pepijnester@gmail.com <pepijnester@gmail.com>\; berjandegraaf@live.nl <berjandegraaf@live.nl>\; jobfriso@live.nl <jobfriso@live.nl>\; René Glasbeek | Wyzer <rglasbeek@wyzer.nl>\; dynamie.van.gool@gmail.com <dynamie.van.gool@gmail.com>\; Lukas de Graaf | Wyzer <ldgraaf@wyzer.nl>\; Charityhansen@live.nl <Charityhansen@live.nl>\; Wietsehaveman@hotmail.com <Wietsehaveman@hotmail.com>\; m.heethuis@hetnet.nl <m.heethuis@hetnet.nl>\; michaelheijnss@gmail.com <michaelheijnss@gmail.com>\; Jesse Herrmann | Wyzer <JHerrmann@Wyzer.nl>\; natasja.vanhillo@gmail.com <natasja.vanhillo@gmail.com>\; kim.v.h@hotmail.com <kim.v.h@hotmail.com>\; jasonjabroer@hotmail.com <jasonjabroer@hotmail.com>\; Isa Jansen of Lorkeers | Wyzer <ijansenoflorkeers@wyzer.nl>\; Wilfried de Jong | Wyzer <W.dJong@Wyzer.nl>\; thijskalksma@hotmail.com <thijskalksma@hotmail.com>\; info@wozpro.nl <info@wozpro.nl>\; frankkropman@hotmail.com <frankkropman@hotmail.com>\; Victor Kuik | Wyzer <vkuik@wyzer.nl>\; Hein Lammers | Wyzer <hlammers@Wyzer.nl>\; jordidleeuw@gmail.com <jordidleeuw@gmail.com>\; arthurlievers@hotmail.com <arthurlievers@hotmail.com>\; thomasvanleusen@hotmail.com <thomasvanleusen@hotmail.com>\; Ilse Maandag | Wyzer <imaandag@wyzer.nl>\; erikmattiesing@hotmail.com <erikmattiesing@hotmail.com>\; Meisje Meijer | Wyzer <mmeijer@Wyzer.nl>\; robin@mol.world <robin@mol.world>\; monique.moll@gmail.com <monique.moll@gmail.com>\; Ruben Muis | Wyzer <rmuis@Wyzer.nl>\; h.nieken@gmail.com <h.nieken@gmail.com>\; Rene@uniqueoffice.nl <Rene@uniqueoffice.nl>\; noelle.nijhuis03@hotmail.com <noelle.nijhuis03@hotmail.com>\; Laurens Oudenes | Wyzer <loudenes@wyzer.nl>\; Wesley Paulissen | Wyzer <wpaulissen@wyzer.nl>\; maartenpeeters@live.nl <maartenpeeters@live.nl>\; marieke.peterson@gmail.com <marieke.peterson@gmail.com>\; hester@postma.net <hester@postma.net>\; andrepot@gmail.com <andrepot@gmail.com>\; marissarabelink@live.nl <marissarabelink@live.nl>\; noeruparai@gmail.com <noeruparai@gmail.com>\; patrick_rekers@hotmail.com <patrick_rekers@hotmail.com>\; W_Renger@hotmail.com <W_Renger@hotmail.com>\; erwin@subwijs.nl <erwin@subwijs.nl>\; Stan van Rossum | Wyzer <svrossum@wyzer.nl>\; Marija Scheeve | Wyzer <mscheeve@Wyzer.nl>\; arienscholtens@gmail.com <arienscholtens@gmail.com>\; timsmit4@gmail.com <timsmit4@gmail.com>\; info@sprenkelsconsultancy.nl <info@sprenkelsconsultancy.nl>\; pastallinga@kpnplanet.nl <pastallinga@kpnplanet.nl>\; maxlouisstevens98@gmail.com <maxlouisstevens98@gmail.com>\; jemteunissen@hotmail.com <jemteunissen@hotmail.com>\; jes.tim@outlook.com <jes.tim@outlook.com>\; grietjevanderhoek@hotmail.com <grietjevanderhoek@hotmail.com>\; Florence van der Hoven | Wyzer <fvdhoven@Wyzer.nl>\; daan.vaalt@home.nl <daan.vaalt@home.nl>\; tjitskealine@icloud.com <tjitskealine@icloud.com>\; patricia_veld@live.nl <patricia_veld@live.nl>\; verbraakbas@gmail.com <verbraakbas@gmail.com>\; mark.verhijde@protonmail.com <mark.verhijde@protonmail.com>\; Joris Versteegen | Wyzer <jversteegen@Wyzer.nl>\; erik.visser@eviz.nl <erik.visser@eviz.nl>\; Marc Voorberg | Wyzer <mvoorberg@Wyzer.nl>\; Niels Werner | Wyzer <nwerner@wyzer.nl>\; e.wiering@planet.nl <e.wiering@planet.nl>\; Tim-winkster@hotmail.com <Tim-winkster@hotmail.com>\; kevinwitte@hotmail.nl <kevinwitte@hotmail.nl>\; Daniel van Zee | Wyzer <dvzee@wyzer.nl>\; Sander Zondervan | Wyzer <szondervan@wyzer.nl>\; Sophie Laarman | Wyzer <slaarman@Wyzer.nl>\; Simone Eikelenboom | Wyzer <SEikelenboom@Wyzer.nl>\; Brenda Dannijs | Wyzer <BDannijs@wyzer.nl>\; Milia Bosboom | Wyzer <mbosboom@wyzer.nl>\; Astrid Leermakers-Römkens | Wyzer <aleermakers@wyzer.nl>\; Lars Otsen <LOtsen@Wyzer.nl>\; Sam Kettenis | Wyzer <skettenis@wyzer.nl>\; jentevanlangerak@gmail.com <jentevanlangerak@gmail.com>\; samhendriksen@hotmail.com <samhendriksen@hotmail.com>\nCC: Wyzer Advies Ruimte (WAR) <o365-nlwyz-wyzeradviesruimtewar@wyzer.nl>\; Kevin Witte <kwitte@haarlem.nl>\nOnderwerp: Thuiskomdag Wyzer\n\n\n\n-----Oorspronkelijke afspraak-----\nVan: Arjan Bout | Wyzer <about@Wyzer.nl>\nVerzonden: vrijdag 20 februari 2026 09:47\nAan: Arjan Bout | Wyzer\; marcus_aalders@hotmail.com\; Mearedith Alberga | Wyzer\; lydiaalbinus@stadem.nl\; Henk-Jan Alting | Wyzer\; s.vanb33k@gmail.com\; matthijs.bloem93@gmail.com\; Thomasterborg@ziggo.nl\; Robin Brouwer | Wyzer\; amelabuljic@gmail.com\; Erik Jan Bult | Wyzer\; ylvacaris@gmail.com\; Maartje Damen | Wyzer\; jeltedeurwaarder@gmail.com\; neslihan.ergun@hotmail.com\; Leander Ernst\; pepijnester@gmail.com\; berjandegraaf@live.nl\; jobfriso@live.nl\; René Glasbeek | Wyzer\; dynamie.van.gool@gmail.com\; Lukas de Graaf | Wyzer\; Charityhansen@live.nl\; Wietsehaveman@hotmail.com\; m.heethuis@hetnet.nl\; michaelheijnss@gmail.com\; samhendriksen@hotmail.com\; Jesse Herrmann | Wyzer\; natasja.vanhillo@gmail.com\; kim.v.h@hotmail.com\; jasonjabroer@hotmail.com\; Isa Jansen of Lorkeers | Wyzer\; Wilfried de Jong | Wyzer\; thijskalksma@hotmail.com\; info@wozpro.nl\; frankkropman@hotmail.com\; Victor Kuik | Wyzer\; Hein Lammers | Wyzer\; jentevanlangerak@gmail.com\; jordidleeuw@gmail.com\; arthurlievers@hotmail.com\; thomasvanleusen@hotmail.com\; Ilse Maandag | Wyzer\; erikmattiesing@hotmail.com\; Meisje Meijer | Wyzer\; robin@mol.world\; monique.moll@gmail.com\; Ruben Muis | Wyzer\; h.nieken@gmail.com\; Rene@uniqueoffice.nl\; noelle.nijhuis03@hotmail.com\; Laurens Oudenes | Wyzer\; Wesley Paulissen | Wyzer\; maartenpeeters@live.nl\; marieke.peterson@gmail.com\; hester@postma.net\; andrepot@gmail.com\; marissarabelink@live.nl\; noeruparai@gmail.com\; patrick_rekers@hotmail.com\; W_Renger@hotmail.com\; erwin@subwijs.nl\; Stan van Rossum | Wyzer\; Marija Scheeve | Wyzer\; arienscholtens@gmail.com\; timsmit4@gmail.com\; info@sprenkelsconsultancy.nl\; pastallinga@kpnplanet.nl\; maxlouisstevens98@gmail.com\; jemteunissen@hotmail.com\; jes.tim@outlook.com\; grietjevanderhoek@hotmail.com\; Florence van der Hoven | Wyzer\; daan.vaalt@home.nl\; tjitskealine@icloud.com\; patricia_veld@live.nl\; verbraakbas@gmail.com\; mark.verhijde@protonmail.com\; Joris Versteegen | Wyzer\; erik.visser@eviz.nl\; Marc Voorberg | Wyzer\; Niels Werner | Wyzer\; e.wiering@planet.nl\; Tim-winkster@hotmail.com\; kevinwitte@hotmail.nl\; Daniel van Zee | Wyzer\; Sander Zondervan | Wyzer\; Sophie Laarman | Wyzer\; Simone Eikelenboom | Wyzer\; Brenda Dannijs | Wyzer\; Milia Bosboom | Wyzer\; Astrid Leermakers-Römkens | Wyzer\; Lars Otsen\; Sam Kettenis | Wyzer\nOnderwerp: Thuiskomdag Wyzer\nTijd: Vindt plaats de eerste woensdag van elke 1 maand(en) vanaf 4-3-2026 tot 2-2-2028 van 09:00 tot 17:00 (UTC+01:00) Amsterdam\, Berlijn\, Bern\, Rome\, Stockholm\, Wenen.\nLocatie: Utrecht OF Zwolle\n\nBeste collega’s\,\n\nWij nodigen jullie graag uit voor de maandelijkse Thuiskomdag van Wyzer!\n\nThuiskomdag = Kennisdelen + Samen werken + Socializen!\n\nElke eerste woensdag van de maand is er een Thuiskomdag bij Wyzer\, afwisselen in Utrecht en Zwolle.\n\nJouw direct Leidinggevende stuurt voorafgaand aan een dag een Reminder\, met daarin verwoord het programma en de locatie (Utrecht of Zwolle).\n\nWij hopen jullie allemaal vaak te zien!\n\nMilia\, Brenda\, Simone\, Lars en Arjan\n\n
-UID:040000008200E00074C5B7101A82E00800000000C08AB6684CA2DC010000000000000000100000001A6011F6FADF384AADCB36CBA3CC2D30
-RECURRENCE-ID;TZID=W. Europe Standard Time:20260401T090000
-SUMMARY:Thuiskomdag Wyzer
-DTSTART;TZID=W. Europe Standard Time:20260401T090000
-DTEND;TZID=W. Europe Standard Time:20260401T170000
-CLASS:PUBLIC
-PRIORITY:5
-DTSTAMP:20260418T185241Z
-TRANSP:OPAQUE
-STATUS:CONFIRMED
-SEQUENCE:0
-LOCATION:Utrecht OF Zwolle
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-INSTTYPE:3
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\n\n-----Oorspronkelijke afspraak-----\nVan: Arjan Bout | Wyzer <about@Wyzer.nl>\nVerzonden: vrijdag 20 februari 2026 09:47\nAan: Arjan Bout | Wyzer\; marcus_aalders@hotmail.com\; Mearedith Alberga | Wyzer\; lydiaalbinus@stadem.nl\; Henk-Jan Alting | Wyzer\; s.vanb33k@gmail.com\; matthijs.bloem93@gmail.com\; Thomasterborg@ziggo.nl\; Robin Brouwer | Wyzer\; amelabuljic@gmail.com\; Erik Jan Bult | Wyzer\; ylvacaris@gmail.com\; Maartje Damen | Wyzer\; jeltedeurwaarder@gmail.com\; neslihan.ergun@hotmail.com\; Leander Ernst\; pepijnester@gmail.com\; berjandegraaf@live.nl\; jobfriso@live.nl\; René Glasbeek | Wyzer\; dynamie.van.gool@gmail.com\; Lukas de Graaf | Wyzer\; Charityhansen@live.nl\; Wietsehaveman@hotmail.com\; m.heethuis@hetnet.nl\; michaelheijnss@gmail.com\; samhendriksen@hotmail.com\; Jesse Herrmann | Wyzer\; natasja.vanhillo@gmail.com\; kim.v.h@hotmail.com\; jasonjabroer@hotmail.com\; Isa Jansen of Lorkeers | Wyzer\; Wilfried de Jong | Wyzer\; thijskalksma@hotmail.com\; info@wozpro.nl\; frankkropman@hotmail.com\; Victor Kuik | Wyzer\; Hein Lammers | Wyzer\; jentevanlangerak@gmail.com\; jordidleeuw@gmail.com\; arthurlievers@hotmail.com\; thomasvanleusen@hotmail.com\; Ilse Maandag | Wyzer\; erikmattiesing@hotmail.com\; Meisje Meijer | Wyzer\; robin@mol.world\; monique.moll@gmail.com\; Ruben Muis | Wyzer\; h.nieken@gmail.com\; Rene@uniqueoffice.nl\; noelle.nijhuis03@hotmail.com\; Laurens Oudenes | Wyzer\; Wesley Paulissen | Wyzer\; maartenpeeters@live.nl\; marieke.peterson@gmail.com\; hester@postma.net\; andrepot@gmail.com\; marissarabelink@live.nl\; noeruparai@gmail.com\; patrick_rekers@hotmail.com\; W_Renger@hotmail.com\; erwin@subwijs.nl\; Stan van Rossum | Wyzer\; Marija Scheeve | Wyzer\; arienscholtens@gmail.com\; timsmit4@gmail.com\; info@sprenkelsconsultancy.nl\; pastallinga@kpnplanet.nl\; maxlouisstevens98@gmail.com\; jemteunissen@hotmail.com\; jes.tim@outlook.com\; grietjevanderhoek@hotmail.com\; Florence van der Hoven | Wyzer\; daan.vaalt@home.nl\; tjitskealine@icloud.com\; patricia_veld@live.nl\; verbraakbas@gmail.com\; mark.verhijde@protonmail.com\; Joris Versteegen | Wyzer\; erik.visser@eviz.nl\; Marc Voorberg | Wyzer\; Niels Werner | Wyzer\; e.wiering@planet.nl\; Tim-winkster@hotmail.com\; kevinwitte@hotmail.nl\; Daniel van Zee | Wyzer\; Sander Zondervan | Wyzer\; Sophie Laarman | Wyzer\; Simone Eikelenboom | Wyzer\; Brenda Dannijs | Wyzer\; Milia Bosboom | Wyzer\; Astrid Leermakers-Römkens | Wyzer\; Lars Otsen\; Sam Kettenis | Wyzer\nOnderwerp: Thuiskomdag Wyzer\nTijd: Vindt plaats de eerste woensdag van elke 1 maand(en) vanaf 4-3-2026 tot 2-2-2028 van 09:00 tot 17:00 (UTC+01:00) Amsterdam\, Berlijn\, Bern\, Rome\, Stockholm\, Wenen.\nLocatie: Utrecht OF Zwolle\n\nBeste collega’s\,\n\nWij nodigen jullie graag uit voor de maandelijkse Thuiskomdag van Wyzer!\n\nThuiskomdag = Kennisdelen + Samen werken + Socializen!\n\nElke eerste woensdag van de maand is er een Thuiskomdag bij Wyzer\, afwisselen in Utrecht en Zwolle.\n\nJouw direct Leidinggevende stuurt voorafgaand aan een dag een Reminder\, met daarin verwoord het programma en de locatie (Utrecht of Zwolle).\n\nWij hopen jullie allemaal vaak te zien!\n\nMilia\, Brenda\, Simone\, Lars en Arjan\n\n
 RRULE:FREQ=MONTHLY;UNTIL=20261007T070000Z;INTERVAL=1;BYDAY=1WE
 UID:040000008200E00074C5B7101A82E00800000000C08AB6684CA2DC010000000000000000100000001A6011F6FADF384AADCB36CBA3CC2D30
@@ -446,7 +226,7 @@ DTSTART;TZID=W. Europe Standard Time:20260401T090000
 DTEND;TZID=W. Europe Standard Time:20260401T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -463,6 +243,31 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Hi Florence\,\n\nDank je! Inmiddels is mij duidelijk geworden dat WAR (wij dus) aanstaande woensdag in Utrecht zitten. Ik heb het er even met Lars en Arjan over gehad.\n\nGroet\,\n\nErwin\n\n________________________________\nVan: Arjan Bout | Wyzer <about@Wyzer.nl>\nVerzonden: maandag 30 maart 2026 15:18:28 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Arjan Bout | Wyzer <about@Wyzer.nl>\; Erwin Riedstra | Wyzer <eriedstra@Wyzer.nl>\; marcus_aalders@hotmail.com <marcus_aalders@hotmail.com>\; Mearedith Alberga | Wyzer <malberga@wyzer.nl>\; lydiaalbinus@stadem.nl <lydiaalbinus@stadem.nl>\; Henk-Jan Alting | Wyzer <halting@wyzer.nl>\; s.vanb33k@gmail.com <s.vanb33k@gmail.com>\; matthijs.bloem93@gmail.com <matthijs.bloem93@gmail.com>\; Thomasterborg@ziggo.nl <Thomasterborg@ziggo.nl>\; Robin Brouwer | Wyzer <rbrouwer@Wyzer.nl>\; amelabuljic@gmail.com <amelabuljic@gmail.com>\; Erik Jan Bult | Wyzer <ejbult@wyzer.nl>\; ylvacaris@gmail.com <ylvacaris@gmail.com>\; Maartje Damen | Wyzer <mhdamen@wyzer.nl>\; jeltedeurwaarder@gmail.com <jeltedeurwaarder@gmail.com>\; neslihan.ergun@hotmail.com <neslihan.ergun@hotmail.com>\; Leander Ernst <lernst@wyzer.nl>\; pepijnester@gmail.com <pepijnester@gmail.com>\; berjandegraaf@live.nl <berjandegraaf@live.nl>\; jobfriso@live.nl <jobfriso@live.nl>\; René Glasbeek | Wyzer <rglasbeek@wyzer.nl>\; dynamie.van.gool@gmail.com <dynamie.van.gool@gmail.com>\; Lukas de Graaf | Wyzer <ldgraaf@wyzer.nl>\; Charityhansen@live.nl <Charityhansen@live.nl>\; Wietsehaveman@hotmail.com <Wietsehaveman@hotmail.com>\; m.heethuis@hetnet.nl <m.heethuis@hetnet.nl>\; michaelheijnss@gmail.com <michaelheijnss@gmail.com>\; Jesse Herrmann | Wyzer <JHerrmann@Wyzer.nl>\; natasja.vanhillo@gmail.com <natasja.vanhillo@gmail.com>\; kim.v.h@hotmail.com <kim.v.h@hotmail.com>\; jasonjabroer@hotmail.com <jasonjabroer@hotmail.com>\; Isa Jansen of Lorkeers | Wyzer <ijansenoflorkeers@wyzer.nl>\; Wilfried de Jong | Wyzer <W.dJong@Wyzer.nl>\; thijskalksma@hotmail.com <thijskalksma@hotmail.com>\; info@wozpro.nl <info@wozpro.nl>\; frankkropman@hotmail.com <frankkropman@hotmail.com>\; Victor Kuik | Wyzer <vkuik@wyzer.nl>\; Hein Lammers | Wyzer <hlammers@Wyzer.nl>\; jordidleeuw@gmail.com <jordidleeuw@gmail.com>\; arthurlievers@hotmail.com <arthurlievers@hotmail.com>\; thomasvanleusen@hotmail.com <thomasvanleusen@hotmail.com>\; Ilse Maandag | Wyzer <imaandag@wyzer.nl>\; erikmattiesing@hotmail.com <erikmattiesing@hotmail.com>\; Meisje Meijer | Wyzer <mmeijer@Wyzer.nl>\; robin@mol.world <robin@mol.world>\; monique.moll@gmail.com <monique.moll@gmail.com>\; Ruben Muis | Wyzer <rmuis@Wyzer.nl>\; h.nieken@gmail.com <h.nieken@gmail.com>\; Rene@uniqueoffice.nl <Rene@uniqueoffice.nl>\; noelle.nijhuis03@hotmail.com <noelle.nijhuis03@hotmail.com>\; Laurens Oudenes | Wyzer <loudenes@wyzer.nl>\; Wesley Paulissen | Wyzer <wpaulissen@wyzer.nl>\; maartenpeeters@live.nl <maartenpeeters@live.nl>\; marieke.peterson@gmail.com <marieke.peterson@gmail.com>\; hester@postma.net <hester@postma.net>\; andrepot@gmail.com <andrepot@gmail.com>\; marissarabelink@live.nl <marissarabelink@live.nl>\; noeruparai@gmail.com <noeruparai@gmail.com>\; patrick_rekers@hotmail.com <patrick_rekers@hotmail.com>\; W_Renger@hotmail.com <W_Renger@hotmail.com>\; erwin@subwijs.nl <erwin@subwijs.nl>\; Stan van Rossum | Wyzer <svrossum@wyzer.nl>\; Marija Scheeve | Wyzer <mscheeve@Wyzer.nl>\; arienscholtens@gmail.com <arienscholtens@gmail.com>\; timsmit4@gmail.com <timsmit4@gmail.com>\; info@sprenkelsconsultancy.nl <info@sprenkelsconsultancy.nl>\; pastallinga@kpnplanet.nl <pastallinga@kpnplanet.nl>\; maxlouisstevens98@gmail.com <maxlouisstevens98@gmail.com>\; jemteunissen@hotmail.com <jemteunissen@hotmail.com>\; jes.tim@outlook.com <jes.tim@outlook.com>\; grietjevanderhoek@hotmail.com <grietjevanderhoek@hotmail.com>\; Florence van der Hoven | Wyzer <fvdhoven@Wyzer.nl>\; daan.vaalt@home.nl <daan.vaalt@home.nl>\; tjitskealine@icloud.com <tjitskealine@icloud.com>\; patricia_veld@live.nl <patricia_veld@live.nl>\; verbraakbas@gmail.com <verbraakbas@gmail.com>\; mark.verhijde@protonmail.com <mark.verhijde@protonmail.com>\; Joris Versteegen | Wyzer <jversteegen@Wyzer.nl>\; erik.visser@eviz.nl <erik.visser@eviz.nl>\; Marc Voorberg | Wyzer <mvoorberg@Wyzer.nl>\; Niels Werner | Wyzer <nwerner@wyzer.nl>\; e.wiering@planet.nl <e.wiering@planet.nl>\; Tim-winkster@hotmail.com <Tim-winkster@hotmail.com>\; kevinwitte@hotmail.nl <kevinwitte@hotmail.nl>\; Daniel van Zee | Wyzer <dvzee@wyzer.nl>\; Sander Zondervan | Wyzer <szondervan@wyzer.nl>\; Sophie Laarman | Wyzer <slaarman@Wyzer.nl>\; Simone Eikelenboom | Wyzer <SEikelenboom@Wyzer.nl>\; Brenda Dannijs | Wyzer <BDannijs@wyzer.nl>\; Milia Bosboom | Wyzer <mbosboom@wyzer.nl>\; Astrid Leermakers-Römkens | Wyzer <aleermakers@wyzer.nl>\; Lars Otsen <LOtsen@Wyzer.nl>\; Sam Kettenis | Wyzer <skettenis@wyzer.nl>\; jentevanlangerak@gmail.com <jentevanlangerak@gmail.com>\; samhendriksen@hotmail.com <samhendriksen@hotmail.com>\nCC: Wyzer Advies Ruimte (WAR) <o365-nlwyz-wyzeradviesruimtewar@wyzer.nl>\; Kevin Witte <kwitte@haarlem.nl>\nOnderwerp: Thuiskomdag Wyzer\nWanneer: woensdag 1 april 2026 09:00-17:00.\nWaar: Utrecht OF Zwolle\n\nHey Erwin\, misschien kan ik hem ook zo delen bedacht ik ineens. Groet\, Florence\n\n________________________________\nVan: Arjan Bout | Wyzer <about@Wyzer.nl>\nVerzonden: vrijdag 20 februari 2026 09:46:34 (UTC+01:00) Amsterdam\, Berlin\, Bern\, Rome\, Stockholm\, Vienna\nAan: Arjan Bout | Wyzer <about@Wyzer.nl>\; marcus_aalders@hotmail.com <marcus_aalders@hotmail.com>\; Mearedith Alberga | Wyzer <malberga@wyzer.nl>\; lydiaalbinus@stadem.nl <lydiaalbinus@stadem.nl>\; Henk-Jan Alting | Wyzer <halting@wyzer.nl>\; s.vanb33k@gmail.com <s.vanb33k@gmail.com>\; matthijs.bloem93@gmail.com <matthijs.bloem93@gmail.com>\; Thomasterborg@ziggo.nl <Thomasterborg@ziggo.nl>\; Robin Brouwer | Wyzer <rbrouwer@Wyzer.nl>\; amelabuljic@gmail.com <amelabuljic@gmail.com>\; Erik Jan Bult | Wyzer <ejbult@wyzer.nl>\; ylvacaris@gmail.com <ylvacaris@gmail.com>\; Maartje Damen | Wyzer <mhdamen@wyzer.nl>\; jeltedeurwaarder@gmail.com <jeltedeurwaarder@gmail.com>\; neslihan.ergun@hotmail.com <neslihan.ergun@hotmail.com>\; Leander Ernst <lernst@wyzer.nl>\; pepijnester@gmail.com <pepijnester@gmail.com>\; berjandegraaf@live.nl <berjandegraaf@live.nl>\; jobfriso@live.nl <jobfriso@live.nl>\; René Glasbeek | Wyzer <rglasbeek@wyzer.nl>\; dynamie.van.gool@gmail.com <dynamie.van.gool@gmail.com>\; Lukas de Graaf | Wyzer <ldgraaf@wyzer.nl>\; Charityhansen@live.nl <Charityhansen@live.nl>\; Wietsehaveman@hotmail.com <Wietsehaveman@hotmail.com>\; m.heethuis@hetnet.nl <m.heethuis@hetnet.nl>\; michaelheijnss@gmail.com <michaelheijnss@gmail.com>\; Jesse Herrmann | Wyzer <JHerrmann@Wyzer.nl>\; natasja.vanhillo@gmail.com <natasja.vanhillo@gmail.com>\; kim.v.h@hotmail.com <kim.v.h@hotmail.com>\; jasonjabroer@hotmail.com <jasonjabroer@hotmail.com>\; Isa Jansen of Lorkeers | Wyzer <ijansenoflorkeers@wyzer.nl>\; Wilfried de Jong | Wyzer <W.dJong@Wyzer.nl>\; thijskalksma@hotmail.com <thijskalksma@hotmail.com>\; info@wozpro.nl <info@wozpro.nl>\; frankkropman@hotmail.com <frankkropman@hotmail.com>\; Victor Kuik | Wyzer <vkuik@wyzer.nl>\; Hein Lammers | Wyzer <hlammers@Wyzer.nl>\; jordidleeuw@gmail.com <jordidleeuw@gmail.com>\; arthurlievers@hotmail.com <arthurlievers@hotmail.com>\; thomasvanleusen@hotmail.com <thomasvanleusen@hotmail.com>\; Ilse Maandag | Wyzer <imaandag@wyzer.nl>\; erikmattiesing@hotmail.com <erikmattiesing@hotmail.com>\; Meisje Meijer | Wyzer <mmeijer@Wyzer.nl>\; robin@mol.world <robin@mol.world>\; monique.moll@gmail.com <monique.moll@gmail.com>\; Ruben Muis | Wyzer <rmuis@Wyzer.nl>\; h.nieken@gmail.com <h.nieken@gmail.com>\; Rene@uniqueoffice.nl <Rene@uniqueoffice.nl>\; noelle.nijhuis03@hotmail.com <noelle.nijhuis03@hotmail.com>\; Laurens Oudenes | Wyzer <loudenes@wyzer.nl>\; Wesley Paulissen | Wyzer <wpaulissen@wyzer.nl>\; maartenpeeters@live.nl <maartenpeeters@live.nl>\; marieke.peterson@gmail.com <marieke.peterson@gmail.com>\; hester@postma.net <hester@postma.net>\; andrepot@gmail.com <andrepot@gmail.com>\; marissarabelink@live.nl <marissarabelink@live.nl>\; noeruparai@gmail.com <noeruparai@gmail.com>\; patrick_rekers@hotmail.com <patrick_rekers@hotmail.com>\; W_Renger@hotmail.com <W_Renger@hotmail.com>\; erwin@subwijs.nl <erwin@subwijs.nl>\; Stan van Rossum | Wyzer <svrossum@wyzer.nl>\; Marija Scheeve | Wyzer <mscheeve@Wyzer.nl>\; arienscholtens@gmail.com <arienscholtens@gmail.com>\; timsmit4@gmail.com <timsmit4@gmail.com>\; info@sprenkelsconsultancy.nl <info@sprenkelsconsultancy.nl>\; pastallinga@kpnplanet.nl <pastallinga@kpnplanet.nl>\; maxlouisstevens98@gmail.com <maxlouisstevens98@gmail.com>\; jemteunissen@hotmail.com <jemteunissen@hotmail.com>\; jes.tim@outlook.com <jes.tim@outlook.com>\; grietjevanderhoek@hotmail.com <grietjevanderhoek@hotmail.com>\; Florence van der Hoven | Wyzer <fvdhoven@Wyzer.nl>\; daan.vaalt@home.nl <daan.vaalt@home.nl>\; tjitskealine@icloud.com <tjitskealine@icloud.com>\; patricia_veld@live.nl <patricia_veld@live.nl>\; verbraakbas@gmail.com <verbraakbas@gmail.com>\; mark.verhijde@protonmail.com <mark.verhijde@protonmail.com>\; Joris Versteegen | Wyzer <jversteegen@Wyzer.nl>\; erik.visser@eviz.nl <erik.visser@eviz.nl>\; Marc Voorberg | Wyzer <mvoorberg@Wyzer.nl>\; Niels Werner | Wyzer <nwerner@wyzer.nl>\; e.wiering@planet.nl <e.wiering@planet.nl>\; Tim-winkster@hotmail.com <Tim-winkster@hotmail.com>\; kevinwitte@hotmail.nl <kevinwitte@hotmail.nl>\; Daniel van Zee | Wyzer <dvzee@wyzer.nl>\; Sander Zondervan | Wyzer <szondervan@wyzer.nl>\; Sophie Laarman | Wyzer <slaarman@Wyzer.nl>\; Simone Eikelenboom | Wyzer <SEikelenboom@Wyzer.nl>\; Brenda Dannijs | Wyzer <BDannijs@wyzer.nl>\; Milia Bosboom | Wyzer <mbosboom@wyzer.nl>\; Astrid Leermakers-Römkens | Wyzer <aleermakers@wyzer.nl>\; Lars Otsen <LOtsen@Wyzer.nl>\; Sam Kettenis | Wyzer <skettenis@wyzer.nl>\; jentevanlangerak@gmail.com <jentevanlangerak@gmail.com>\; samhendriksen@hotmail.com <samhendriksen@hotmail.com>\nCC: Wyzer Advies Ruimte (WAR) <o365-nlwyz-wyzeradviesruimtewar@wyzer.nl>\; Kevin Witte <kwitte@haarlem.nl>\nOnderwerp: Thuiskomdag Wyzer\n\n\n\n-----Oorspronkelijke afspraak-----\nVan: Arjan Bout | Wyzer <about@Wyzer.nl>\nVerzonden: vrijdag 20 februari 2026 09:47\nAan: Arjan Bout | Wyzer\; marcus_aalders@hotmail.com\; Mearedith Alberga | Wyzer\; lydiaalbinus@stadem.nl\; Henk-Jan Alting | Wyzer\; s.vanb33k@gmail.com\; matthijs.bloem93@gmail.com\; Thomasterborg@ziggo.nl\; Robin Brouwer | Wyzer\; amelabuljic@gmail.com\; Erik Jan Bult | Wyzer\; ylvacaris@gmail.com\; Maartje Damen | Wyzer\; jeltedeurwaarder@gmail.com\; neslihan.ergun@hotmail.com\; Leander Ernst\; pepijnester@gmail.com\; berjandegraaf@live.nl\; jobfriso@live.nl\; René Glasbeek | Wyzer\; dynamie.van.gool@gmail.com\; Lukas de Graaf | Wyzer\; Charityhansen@live.nl\; Wietsehaveman@hotmail.com\; m.heethuis@hetnet.nl\; michaelheijnss@gmail.com\; samhendriksen@hotmail.com\; Jesse Herrmann | Wyzer\; natasja.vanhillo@gmail.com\; kim.v.h@hotmail.com\; jasonjabroer@hotmail.com\; Isa Jansen of Lorkeers | Wyzer\; Wilfried de Jong | Wyzer\; thijskalksma@hotmail.com\; info@wozpro.nl\; frankkropman@hotmail.com\; Victor Kuik | Wyzer\; Hein Lammers | Wyzer\; jentevanlangerak@gmail.com\; jordidleeuw@gmail.com\; arthurlievers@hotmail.com\; thomasvanleusen@hotmail.com\; Ilse Maandag | Wyzer\; erikmattiesing@hotmail.com\; Meisje Meijer | Wyzer\; robin@mol.world\; monique.moll@gmail.com\; Ruben Muis | Wyzer\; h.nieken@gmail.com\; Rene@uniqueoffice.nl\; noelle.nijhuis03@hotmail.com\; Laurens Oudenes | Wyzer\; Wesley Paulissen | Wyzer\; maartenpeeters@live.nl\; marieke.peterson@gmail.com\; hester@postma.net\; andrepot@gmail.com\; marissarabelink@live.nl\; noeruparai@gmail.com\; patrick_rekers@hotmail.com\; W_Renger@hotmail.com\; erwin@subwijs.nl\; Stan van Rossum | Wyzer\; Marija Scheeve | Wyzer\; arienscholtens@gmail.com\; timsmit4@gmail.com\; info@sprenkelsconsultancy.nl\; pastallinga@kpnplanet.nl\; maxlouisstevens98@gmail.com\; jemteunissen@hotmail.com\; jes.tim@outlook.com\; grietjevanderhoek@hotmail.com\; Florence van der Hoven | Wyzer\; daan.vaalt@home.nl\; tjitskealine@icloud.com\; patricia_veld@live.nl\; verbraakbas@gmail.com\; mark.verhijde@protonmail.com\; Joris Versteegen | Wyzer\; erik.visser@eviz.nl\; Marc Voorberg | Wyzer\; Niels Werner | Wyzer\; e.wiering@planet.nl\; Tim-winkster@hotmail.com\; kevinwitte@hotmail.nl\; Daniel van Zee | Wyzer\; Sander Zondervan | Wyzer\; Sophie Laarman | Wyzer\; Simone Eikelenboom | Wyzer\; Brenda Dannijs | Wyzer\; Milia Bosboom | Wyzer\; Astrid Leermakers-Römkens | Wyzer\; Lars Otsen\; Sam Kettenis | Wyzer\nOnderwerp: Thuiskomdag Wyzer\nTijd: Vindt plaats de eerste woensdag van elke 1 maand(en) vanaf 4-3-2026 tot 2-2-2028 van 09:00 tot 17:00 (UTC+01:00) Amsterdam\, Berlijn\, Bern\, Rome\, Stockholm\, Wenen.\nLocatie: Utrecht OF Zwolle\n\nBeste collega’s\,\n\nWij nodigen jullie graag uit voor de maandelijkse Thuiskomdag van Wyzer!\n\nThuiskomdag = Kennisdelen + Samen werken + Socializen!\n\nElke eerste woensdag van de maand is er een Thuiskomdag bij Wyzer\, afwisselen in Utrecht en Zwolle.\n\nJouw direct Leidinggevende stuurt voorafgaand aan een dag een Reminder\, met daarin verwoord het programma en de locatie (Utrecht of Zwolle).\n\nWij hopen jullie allemaal vaak te zien!\n\nMilia\, Brenda\, Simone\, Lars en Arjan\n\n
+UID:040000008200E00074C5B7101A82E00800000000C08AB6684CA2DC010000000000000000100000001A6011F6FADF384AADCB36CBA3CC2D30
+RECURRENCE-ID;TZID=W. Europe Standard Time:20260401T090000
+SUMMARY:Thuiskomdag Wyzer
+DTSTART;TZID=W. Europe Standard Time:20260401T090000
+DTEND;TZID=W. Europe Standard Time:20260401T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260419T024433Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION:Utrecht OF Zwolle
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:3
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dnl-NL&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7C5f790770e1944321733908de75fff2fb%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639077939312218073%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wQ%2FydIZ9KTWLz3JdBx2B9kMhEd%2FOvgN3r%2F518zumKL8%3D&reserved=0>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODMxZTE5MjYtMzMxNS00YjJhLTllZjQtMDgyNjc0MTIzMTNk%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%22f86e2f98-b5bf-4640-8742-69755b918518%22%7d>\nVergadering-id: 357 032 760 908\nWachtwoordcode: WN2SP7Yw\n________________________________\nInbellen via telefoon\n+31 20 258 8508\,\,963212989#<tel:+31202588508\,\,963212989> Nederland\, Amsterdam\nEen lokaal nummer zoeken<https://dialin.teams.microsoft.com/043d25bb-1959-4402-8a7b-c3a881fc259a?id=963212989>\nTelefonische vergadering-id: 963 212 989#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=f86e2f98-b5bf-4640-8742-69755b918518&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_ODMxZTE5MjYtMzMxNS00YjJhLTllZjQtMDgyNjc0MTIzMTNk@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n\n
 UID:040000008200E00074C5B7101A82E00800000000D03154B023ADDB010000000000000000100000006681A4E8E7A08E4CB9C4D91D196D92B8
 RECURRENCE-ID;TZID=W. Europe Standard Time:20260401T103000
@@ -471,7 +276,7 @@ DTSTART;TZID=W. Europe Standard Time:20260401T103000
 DTEND;TZID=W. Europe Standard Time:20260401T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:12
@@ -496,7 +301,7 @@ DTSTART;TZID=W. Europe Standard Time:20260401T103000
 DTEND;TZID=W. Europe Standard Time:20260401T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:12
@@ -520,7 +325,7 @@ DTSTART;TZID=W. Europe Standard Time:20260401T123000
 DTEND;TZID=W. Europe Standard Time:20260401T133000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -544,7 +349,7 @@ DTSTART;TZID=W. Europe Standard Time:20260401T133000
 DTEND;TZID=W. Europe Standard Time:20260401T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -568,7 +373,7 @@ DTSTART;TZID=W. Europe Standard Time:20260401T150000
 DTEND;TZID=W. Europe Standard Time:20260401T160000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -592,7 +397,7 @@ DTSTART;TZID=W. Europe Standard Time:20260407T130000
 DTEND;TZID=W. Europe Standard Time:20260407T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -616,7 +421,7 @@ DTSTART;TZID=W. Europe Standard Time:20260415T090000
 DTEND;TZID=W. Europe Standard Time:20260415T100000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -633,6 +438,32 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dnl-NL&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7C5eea4e383ace4e738d5b08de58cb7655%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639045828043638076%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=4xQPAFBoO2uXI3GnwViUoKDNbAiO%2BAoNqky16TGrTTQ%3D&reserved=0>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjk3NDU5NjUtMmQ5Yy00OThhLWFlMTgtMjQxOTBiYjc1MWVl%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%22527d212c-68f3-4f4c-b126-bda8f199c4e1%22%7d>\nVergadering-id: 362 905 723 580 03\nWachtwoordcode: aL2CG6aG\n________________________________\nInbellen via telefoon\n+32 50 89 17 84\,\,178462392#<tel:+3250891784\,\,178462392> België\, Brugge\nEen lokaal nummer zoeken<https://dialin.teams.microsoft.com/043d25bb-1959-4402-8a7b-c3a881fc259a?id=178462392>\nTelefonische vergadering-id: 178 462 392#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=527d212c-68f3-4f4c-b126-bda8f199c4e1&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_Zjk3NDU5NjUtMmQ5Yy00OThhLWFlMTgtMjQxOTBiYjc1MWVl@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n\n
+RRULE:FREQ=WEEKLY;UNTIL=20260930T080000Z;INTERVAL=4;BYDAY=WE;WKST=SU
+EXDATE;TZID=W. Europe Standard Time:20260513T100000
+UID:040000008200E00074C5B7101A82E00800000000B9BA98BEDB7FDC01000000000000000010000000DA8F2C9E186E7F4F835BB25124DD158F
+SUMMARY:Procesteam Coaching-\, Begeleiding- & Intervisie
+DTSTART;TZID=W. Europe Standard Time:20260415T100000
+DTEND;TZID=W. Europe Standard Time:20260415T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20260419T024433Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:3
+LOCATION:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:3
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/36378786078800?p=VIzQLbBPLTcSY7VlmP\nVergadering-id: 363 787 860 788 00\nWachtwoordcode: wA6KT3eH\n________________________________\nHeeft u hulp nodig?<https://aka.ms/JoinTeamsMeeting?omkt=nl-NL> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2Y5ZmQzZDAtOWQ5MS00ODMxLTk0ZjktMDRkMTJmYzk3YTNk%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%22b6c7fe22-98f0-419c-8b43-c996ad54ef29%22%7d>\nInbellen via telefoon\n+31 20 258 8508\,\,552677613#<tel:+31202588508\,\,552677613#> Nederland\, Amsterdam\nEen lokaal nummer zoeken<https://dialin.teams.microsoft.com/043d25bb-1959-4402-8a7b-c3a881fc259a?id=552677613>\nTelefonische vergadering-id: 552 677 613#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=b6c7fe22-98f0-419c-8b43-c996ad54ef29&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_N2Y5ZmQzZDAtOWQ5MS00ODMxLTk0ZjktMDRkMTJmYzk3YTNk@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n
 UID:040000008200E00074C5B7101A82E00800000000A8E0E70CB5BDDC01000000000000000010000000D8F9BB029322724FAC3EFE79AB1CA213
 SUMMARY:Koffie Erwin / Florence
@@ -640,7 +471,7 @@ DTSTART;TZID=W. Europe Standard Time:20260415T110000
 DTEND;TZID=W. Europe Standard Time:20260415T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -666,7 +497,7 @@ DTSTART;TZID=W. Europe Standard Time:20260415T110000
 DTEND;TZID=W. Europe Standard Time:20260415T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -690,7 +521,7 @@ DTSTART;TZID=W. Europe Standard Time:20260415T153000
 DTEND;TZID=W. Europe Standard Time:20260415T160000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -714,7 +545,7 @@ DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260422
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -738,7 +569,7 @@ DTSTART;TZID=W. Europe Standard Time:20260422T130000
 DTEND;TZID=W. Europe Standard Time:20260422T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -762,7 +593,7 @@ DTSTART;TZID=W. Europe Standard Time:20260422T143000
 DTEND;TZID=W. Europe Standard Time:20260422T153000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -787,7 +618,7 @@ DTSTART;TZID=W. Europe Standard Time:20260429T103000
 DTEND;TZID=W. Europe Standard Time:20260429T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:12
@@ -812,7 +643,7 @@ DTSTART;TZID=W. Europe Standard Time:20260506T090000
 DTEND;TZID=W. Europe Standard Time:20260506T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -836,7 +667,7 @@ DTSTART;TZID=W. Europe Standard Time:20260506T120000
 DTEND;TZID=W. Europe Standard Time:20260506T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -860,7 +691,7 @@ DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260518
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -884,7 +715,7 @@ DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -909,7 +740,7 @@ DTSTART;TZID=W. Europe Standard Time:20260603T090000
 DTEND;TZID=W. Europe Standard Time:20260603T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -933,7 +764,7 @@ DTSTART;TZID=W. Europe Standard Time:20260624T073000
 DTEND;TZID=W. Europe Standard Time:20260624T090000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -957,7 +788,7 @@ DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260630
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -981,7 +812,7 @@ DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260803
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -1006,7 +837,7 @@ DTSTART;TZID=W. Europe Standard Time:20260722T103000
 DTEND;TZID=W. Europe Standard Time:20260722T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260418T185241Z
+DTSTAMP:20260419T024433Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:12
