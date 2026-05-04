@@ -27,7 +27,7 @@ DTSTART;TZID=W. Europe Standard Time:20260407T130000
 DTEND;TZID=W. Europe Standard Time:20260407T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -45,14 +45,14 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/39724667907100?p=S7ZFG6VvBXeqnM4y3l\nVergadering-id: 397 246 679 071 00\nWachtwoordcode: 9np6AV6m\n________________________________\nHeeft u hulp nodig?<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dnl-NL&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7C212c3bfd2c7144ccdaec08de6ebe8ca7%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639069961866513124%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=QvIJ6xijveQAARZluCAxgWM6DNMQEKxoXoR3cT%2FfCIM%3D&reserved=0> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjFiMDMxNzEtYzE2Yi00ZDYyLTg4NTMtMDRlNDE1NDczOThl%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%22527d212c-68f3-4f4c-b126-bda8f199c4e1%22%7d>\nInbellen via telefoon\n+32 50 89 17 84\,\,77641866#<tel:+3250891784\,\,77641866> België\, Brugge\nEen lokaal nummer zoeken<https://dialin.teams.microsoft.com/043d25bb-1959-4402-8a7b-c3a881fc259a?id=77641866>\nTelefonische vergadering-id: 776 418 66#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=527d212c-68f3-4f4c-b126-bda8f199c4e1&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_ZjFiMDMxNzEtYzE2Yi00ZDYyLTg4NTMtMDRlNDE1NDczOThl@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n\n
-RRULE:FREQ=WEEKLY;UNTIL=20261020T220000Z;INTERVAL=2;BYDAY=WE;WKST=SU
+RRULE:FREQ=WEEKLY;UNTIL=20261103T230000Z;INTERVAL=2;BYDAY=WE;WKST=SU
 UID:040000008200E00074C5B7101A82E00800000000BEFDD4A6B28ADC010000000000000000100000007AB1382A43E0FD42807C5EC03A87BEB6
 SUMMARY:Werken op locatie Zwolle
 DTSTART;VALUE=DATE:20260408
 DTEND;VALUE=DATE:20260409
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -70,7 +70,7 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:____________________________________________________________________________\nMicrosoft Teams Heeft u hulp nodig?<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dnl-NL&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Ca8fb8cfa863b42b7819408de58cb9b39%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639045828690537597%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=SZbABkJUEcVmU%2F30yR763%2B5auh21UvI0z3w4DaLj8qs%3D&reserved=0>\nNu deelnemen aan de vergadering<https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2E2MmJlYjEtMmJlNy00MWFhLTlmNTUtZTBkY2JkYTE0NDBi%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%22527d212c-68f3-4f4c-b126-bda8f199c4e1%22%7d>\nVergadering-id: 345 808 316 322 0\nWachtwoordcode: Jv2GF7eY\n________________________________\nInbellen via telefoon\n+32 50 89 17 84\,\,751189955#<tel:+3250891784\,\,751189955> België\, Brugge\nEen lokaal nummer zoeken<https://dialin.teams.microsoft.com/043d25bb-1959-4402-8a7b-c3a881fc259a?id=751189955>\nTelefonische vergadering-id: 751 189 955#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=527d212c-68f3-4f4c-b126-bda8f199c4e1&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_Y2E2MmJlYjEtMmJlNy00MWFhLTlmNTUtZTBkY2JkYTE0NDBi@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n\n
-RRULE:FREQ=WEEKLY;UNTIL=20261021T083000Z;INTERVAL=2;BYDAY=WE;WKST=SU
+RRULE:FREQ=WEEKLY;UNTIL=20261104T093000Z;INTERVAL=2;BYDAY=WE;WKST=SU
 EXDATE;TZID=W. Europe Standard Time:20260422T103000,20260603T103000
 UID:040000008200E00074C5B7101A82E0080000000086A05D5CD97FDC0100000000000000001000000049E25F3C90C0804DB47CC1F7BA5C678A
 SUMMARY:Themagroep Duurzaamheid
@@ -78,7 +78,7 @@ DTSTART;TZID=W. Europe Standard Time:20260408T103000
 DTEND;TZID=W. Europe Standard Time:20260408T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:5
@@ -104,7 +104,7 @@ DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:9
@@ -128,7 +128,7 @@ DTSTART;TZID=W. Europe Standard Time:20260415T090000
 DTEND;TZID=W. Europe Standard Time:20260415T100000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -154,7 +154,7 @@ DTSTART;TZID=W. Europe Standard Time:20260415T100000
 DTEND;TZID=W. Europe Standard Time:20260415T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:3
@@ -180,7 +180,7 @@ DTSTART;TZID=W. Europe Standard Time:20260415T110000
 DTEND;TZID=W. Europe Standard Time:20260415T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -204,7 +204,7 @@ DTSTART;TZID=W. Europe Standard Time:20260415T110000
 DTEND;TZID=W. Europe Standard Time:20260415T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -228,7 +228,7 @@ DTSTART;TZID=W. Europe Standard Time:20260415T153000
 DTEND;TZID=W. Europe Standard Time:20260415T160000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -252,7 +252,7 @@ DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260422
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -270,14 +270,14 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n\n
-RRULE:FREQ=WEEKLY;UNTIL=20261006T220000Z;INTERVAL=4;BYDAY=WE;WKST=SU
+RRULE:FREQ=WEEKLY;UNTIL=20261103T230000Z;INTERVAL=4;BYDAY=WE;WKST=SU
 UID:040000008200E00074C5B7101A82E00800000000F59FD19BDE7FDC010000000000000000100000000D3493186886414EA6B0A15EE0279E42
 SUMMARY:Deadline: aanleveren agendapunten teamoverleg 
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -302,7 +302,7 @@ DTSTART;VALUE=DATE:20260424
 DTEND;VALUE=DATE:20260425
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -327,7 +327,7 @@ DTSTART;TZID=W. Europe Standard Time:20260429T103000
 DTEND;TZID=W. Europe Standard Time:20260429T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:12
@@ -352,7 +352,7 @@ DTSTART;TZID=W. Europe Standard Time:20260429T103000
 DTEND;TZID=W. Europe Standard Time:20260429T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:12
@@ -376,7 +376,7 @@ DTSTART;TZID=W. Europe Standard Time:20260505T100000
 DTEND;TZID=W. Europe Standard Time:20260505T110000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -401,7 +401,7 @@ DTSTART;TZID=W. Europe Standard Time:20260506T090000
 DTEND;TZID=W. Europe Standard Time:20260506T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -419,7 +419,7 @@ X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n\n-----Oorspronkelijke afspraak-----\nVan: Arjan Bout | Wyzer <about@Wyzer.nl>\nVerzonden: vrijdag 20 februari 2026 09:47\nAan: Arjan Bout | Wyzer\; marcus_aalders@hotmail.com\; Mearedith Alberga | Wyzer\; lydiaalbinus@stadem.nl\; Henk-Jan Alting | Wyzer\; s.vanb33k@gmail.com\; matthijs.bloem93@gmail.com\; Thomasterborg@ziggo.nl\; Robin Brouwer | Wyzer\; amelabuljic@gmail.com\; Erik Jan Bult | Wyzer\; ylvacaris@gmail.com\; Maartje Damen | Wyzer\; jeltedeurwaarder@gmail.com\; neslihan.ergun@hotmail.com\; Leander Ernst\; pepijnester@gmail.com\; berjandegraaf@live.nl\; jobfriso@live.nl\; René Glasbeek | Wyzer\; dynamie.van.gool@gmail.com\; Lukas de Graaf | Wyzer\; Charityhansen@live.nl\; Wietsehaveman@hotmail.com\; m.heethuis@hetnet.nl\; michaelheijnss@gmail.com\; samhendriksen@hotmail.com\; Jesse Herrmann | Wyzer\; natasja.vanhillo@gmail.com\; kim.v.h@hotmail.com\; jasonjabroer@hotmail.com\; Isa Jansen of Lorkeers | Wyzer\; Wilfried de Jong | Wyzer\; thijskalksma@hotmail.com\; info@wozpro.nl\; frankkropman@hotmail.com\; Victor Kuik | Wyzer\; Hein Lammers | Wyzer\; jentevanlangerak@gmail.com\; jordidleeuw@gmail.com\; arthurlievers@hotmail.com\; thomasvanleusen@hotmail.com\; Ilse Maandag | Wyzer\; erikmattiesing@hotmail.com\; Meisje Meijer | Wyzer\; robin@mol.world\; monique.moll@gmail.com\; Ruben Muis | Wyzer\; h.nieken@gmail.com\; Rene@uniqueoffice.nl\; noelle.nijhuis03@hotmail.com\; Laurens Oudenes | Wyzer\; Wesley Paulissen | Wyzer\; maartenpeeters@live.nl\; marieke.peterson@gmail.com\; hester@postma.net\; andrepot@gmail.com\; marissarabelink@live.nl\; noeruparai@gmail.com\; patrick_rekers@hotmail.com\; W_Renger@hotmail.com\; erwin@subwijs.nl\; Stan van Rossum | Wyzer\; Marija Scheeve | Wyzer\; arienscholtens@gmail.com\; timsmit4@gmail.com\; info@sprenkelsconsultancy.nl\; pastallinga@kpnplanet.nl\; maxlouisstevens98@gmail.com\; jemteunissen@hotmail.com\; jes.tim@outlook.com\; grietjevanderhoek@hotmail.com\; Florence van der Hoven | Wyzer\; daan.vaalt@home.nl\; tjitskealine@icloud.com\; patricia_veld@live.nl\; verbraakbas@gmail.com\; mark.verhijde@protonmail.com\; Joris Versteegen | Wyzer\; erik.visser@eviz.nl\; Marc Voorberg | Wyzer\; Niels Werner | Wyzer\; e.wiering@planet.nl\; Tim-winkster@hotmail.com\; kevinwitte@hotmail.nl\; Daniel van Zee | Wyzer\; Sander Zondervan | Wyzer\; Sophie Laarman | Wyzer\; Simone Eikelenboom | Wyzer\; Brenda Dannijs | Wyzer\; Milia Bosboom | Wyzer\; Astrid Leermakers-Römkens | Wyzer\; Lars Otsen\; Sam Kettenis | Wyzer\nOnderwerp: Thuiskomdag Wyzer\nTijd: Vindt plaats de eerste woensdag van elke 1 maand(en) vanaf 4-3-2026 tot 2-2-2028 van 09:00 tot 17:00 (UTC+01:00) Amsterdam\, Berlijn\, Bern\, Rome\, Stockholm\, Wenen.\nLocatie: Utrecht OF Zwolle\n\nBeste collega’s\,\n\nWij nodigen jullie graag uit voor de maandelijkse Thuiskomdag van Wyzer!\n\nThuiskomdag = Kennisdelen + Samen werken + Socializen!\n\nElke eerste woensdag van de maand is er een Thuiskomdag bij Wyzer\, afwisselen in Utrecht en Zwolle.\n\nJouw direct Leidinggevende stuurt voorafgaand aan een dag een Reminder\, met daarin verwoord het programma en de locatie (Utrecht of Zwolle).\n\nWij hopen jullie allemaal vaak te zien!\n\nMilia\, Brenda\, Simone\, Lars en Arjan\n\n
-RRULE:FREQ=MONTHLY;UNTIL=20261007T070000Z;INTERVAL=1;BYDAY=1WE
+RRULE:FREQ=MONTHLY;UNTIL=20261104T080000Z;INTERVAL=1;BYDAY=1WE
 EXDATE;TZID=W. Europe Standard Time:20260603T090000
 UID:040000008200E00074C5B7101A82E00800000000C08AB6684CA2DC010000000000000000100000001A6011F6FADF384AADCB36CBA3CC2D30
 SUMMARY:Thuiskomdag Wyzer
@@ -427,7 +427,7 @@ DTSTART;TZID=W. Europe Standard Time:20260506T090000
 DTEND;TZID=W. Europe Standard Time:20260506T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -451,7 +451,7 @@ DTSTART;TZID=W. Europe Standard Time:20260506T093000
 DTEND;TZID=W. Europe Standard Time:20260506T100000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -475,7 +475,7 @@ DTSTART;TZID=W. Europe Standard Time:20260506T120000
 DTEND;TZID=W. Europe Standard Time:20260506T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -499,7 +499,7 @@ DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260518
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -523,7 +523,7 @@ DTSTART;TZID=W. Europe Standard Time:20260520T130000
 DTEND;TZID=W. Europe Standard Time:20260520T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -547,7 +547,7 @@ DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260527
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -571,7 +571,7 @@ DTSTART;TZID=W. Europe Standard Time:20260527T093000
 DTEND;TZID=W. Europe Standard Time:20260527T203000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -595,7 +595,7 @@ DTSTART;TZID=W. Europe Standard Time:20260603T080000
 DTEND;TZID=W. Europe Standard Time:20260603T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -619,7 +619,7 @@ DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260609
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -643,7 +643,7 @@ DTSTART;TZID=W. Europe Standard Time:20260624T073000
 DTEND;TZID=W. Europe Standard Time:20260624T090000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -667,7 +667,7 @@ DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260630
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -692,7 +692,7 @@ DTSTART;TZID=W. Europe Standard Time:20260701T090000
 DTEND;TZID=W. Europe Standard Time:20260701T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -716,7 +716,7 @@ DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260803
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -741,7 +741,7 @@ DTSTART;TZID=W. Europe Standard Time:20260722T103000
 DTEND;TZID=W. Europe Standard Time:20260722T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20260503T190033Z
+DTSTAMP:20260504T025506Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:12
