@@ -29,7 +29,7 @@ DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -53,7 +53,7 @@ DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -77,7 +77,7 @@ DTSTART;TZID=W. Europe Standard Time:20261007T090000
 DTEND;TZID=W. Europe Standard Time:20261007T093000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -102,7 +102,7 @@ DTSTART;TZID=W. Europe Standard Time:20261007T103000
 DTEND;TZID=W. Europe Standard Time:20261007T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -127,7 +127,7 @@ DTSTART;TZID=W. Europe Standard Time:20261007T103000
 DTEND;TZID=W. Europe Standard Time:20261007T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -151,7 +151,7 @@ DTSTART;TZID=W. Europe Standard Time:20261007T130000
 DTEND;TZID=W. Europe Standard Time:20261007T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -177,7 +177,7 @@ DTSTART;TZID=W. Europe Standard Time:20261007T130000
 DTEND;TZID=W. Europe Standard Time:20261007T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -202,7 +202,7 @@ DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -228,7 +228,7 @@ DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -254,7 +254,7 @@ DTSTART;TZID=W. Europe Standard Time:20261014T090000
 DTEND;TZID=W. Europe Standard Time:20261014T093000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -279,7 +279,7 @@ DTSTART;TZID=W. Europe Standard Time:20261014T103000
 DTEND;TZID=W. Europe Standard Time:20261014T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:12
@@ -304,7 +304,7 @@ DTSTART;TZID=W. Europe Standard Time:20261014T103000
 DTEND;TZID=W. Europe Standard Time:20261014T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:12
@@ -328,7 +328,7 @@ DTSTART;TZID=W. Europe Standard Time:20261014T130000
 DTEND;TZID=W. Europe Standard Time:20261014T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -352,7 +352,7 @@ DTSTART;TZID=W. Europe Standard Time:20261014T140000
 DTEND;TZID=W. Europe Standard Time:20261014T150000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -376,7 +376,7 @@ DTSTART;TZID=W. Europe Standard Time:20261021T130000
 DTEND;TZID=W. Europe Standard Time:20261021T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:4
@@ -401,7 +401,7 @@ DTSTART;TZID=W. Europe Standard Time:20261023T090000
 DTEND;TZID=W. Europe Standard Time:20261023T094500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:3
@@ -418,20 +418,20 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nJe staat ingeschreven voor Training Persoonlijk leiderschap (Mensgericht Maatwerk):\n\n  *   Aanvraagnummer: 300488\n  *   Opleider: Wyzer Academie B.V.\n  *   opleidingsaanbod: Training Persoonlijk leiderschap (Mensgericht Maatwerk)\n\n  *   Locatie: Wyzer Utrecht\, Herculesplein 88\, 3584 AA UTRECHT\, Herculesplein 88\n  *   Wanneer:\n     *   23 okt 2026 10:00 - 16:30\n\nGa naar onderstaande link voor meer informatie over de aanvraag:\nTraining Persoonlijk leiderschap (Mensgericht Maatwerk)<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMzUFurSAUgOHVwOzecA6IMGDgxG0YwOOTRNEHaGNX3zRNkyb_9Ms_O6WCmDk56K0AbRCRr04bjwYsdbgoS9Lo2GkPOoAM0SpNPDntg4zRkl0wxKmnYBUQgjECrFSdMUyJdL5AfKde0L93nza-ubW1szI5MBwZjh_PJ5V3bdf8tCvQO28Mx7j5Wstx7K9WfMop_6sMR-wEgOXFLfe8HjdlpsQPzxtvrj0nMTn8iqnQ_4tqm-KRl1R2mqflKNNVqfDmKN9MDn-3_Hb4FQAA__-sslYW&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ce3253aa17f294583b75c08df197229ef%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639257650563395229%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=iDovP5Lt0e73%2BqLH84Vie7E0xI%2BbtKfh4c6Idsv6rKo%3D&reserved=0>\n\nVoor eventuele vragen kun je terecht bij opleider of contactpersoon\n\nOpleider Wyzer Academie B.V.\n\n  *   Opleider email: online@wyzer.nl\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxUkEuP2kAQhH-NfTOapx8HHyDEkF2CQ9hlQy7IY7fxiGGAeRi8vz7ajQ-J1FJ1q0qfWtXkjAnUhJDjJEM4TgkhYZdDxSlJALcJES0QBAnUTZyRlFOWAcOhzONK0LrOIGuJqA8JiIxhIDhNEc4o42kaMCSvEUYfwyKcTM6VVKHKO-euNqDTgBQBKURVn0A3E-t8MzgvYKJVQAolrYu8tl7Y2kgBASmO2x1hHRK-eKMrDgHhhH8gPmXv6JY_-I2W_euyzMon_deYncyYuKx-9erxrKtus64K9GW-m_oBj-b52MkB2dcN59---4WNEVOPcjFLxHZ3__1IF_vrw59l37itEVfzPhVpOVPd2_NyBFDFZ7dxf4lXX_n9_nnR-ShRZOllPp9vxtDSvqyrH9UmimLXK3WD9XD8uW-fsnVXjq_fT5v_GaHJ277pLj3ogKH78A5molXocjdcIaBTZyqppT4eDNw8WHeoL7qV5gzNob2Yg7dgQpeD7gM6_bfvsM_JnwAAAP__n1qfew&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ce3253aa17f294583b75c08df197229ef%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639257650563435121%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=F6wEG1yMmGlRjC9an1SAs5ed6nE7fAIIUmOeJ32buCk%3D&reserved=0>\n\n\n
-UID:bfa94137-4b6d-430f-9dcf-65901d795035
-SUMMARY:Training Persoonlijk leiderschap (Mensgericht Maatwerk)
+DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nJe bent ingeschreven voor een Opleidingsdag. Hieronder hebben we de gegevens voor je geplaatst:\n\n  *   Wat: Training persoonlijk leiderschap (mensgericht maatwerk) 5040 | sessie 23 okt 2026\n  *   Wanneer/waar:\n     *   23 okt 2026 10:00 - 16:30\, Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland\n  *   Opleidingsdag type: cursus\n  *   Contactpersoon: Opleidingsadviseurs Academie (online@wyzer.nl)\n\nBekijk hier de informatiepagina van Training persoonlijk leiderschap (mensgericht maatwerk) 5040<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMjL1u9CAQAJ8GurMWFhtTULjxa5z4WT4j-eMse4_IefooSRNpypnJ3pgIWZJX1inl0M4oN6-zK7okMm6EQJhwSqokAyHkaDMFWf0UElodp2RtzE9T5tmpySGMCiCAMFCPh4JvzEPZ4X-ou9z9xnxcAhehV6HXj_uTzuHid775HWlou9ArdWp8Cb0qdHY08vSl5-3VqQkDv0XbJXu-DxK4_OjPk_7Vi8_A9dUke2pd4PJ3LLvXXwEAAP__CAVKFw&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ca21a1a4c2d6c42983ef308df22c5fbe0%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639267906168227012%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=RbFFGvU%2FznqLP5gMrHMFfuyrk2WH3xi5RuNoz9wQvBE%3D&reserved=0>\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMkMlu2zAARL-GusngZlI88GA7VmPVq2LXyyXgJkuJyggSpVT5-qKtDwUGmNMbDJ6VlGpoIycRFwgJwhMSlRIWKlEWYcSoSRRhjCCIHXOIw4Rya6JKMmUIx5oZzrV9pUWSCMQEgVMEoYKAwqqJEfwTGiM--amqOqplGULTATIDOAU41cq8O28nXejtGHrtJr4GOK2rLsS973rdmbbSDuAUr9cG4Cme4vnmuSjEFZf77MbG-Y99fje77eppMa-baxZuz4269efLtP82zfp_SNp_LcMp3yo37LLcJD6fvxVL0d3V9rB-UWWX5cPu0rJfmVvMuBanzVHh6vsqXY6b8-ffDfIUx-mLPjw-3PElx4Luz-9vcZygxVFQ09riuA6nZTFeyWp3eGCPilpZDLb8GJwHFH6OX66d-DoKMoyNA2TmBufDa-vuVRdaFaoPHwXp_ADI7H850SDx7wAAAP__f3WFfA&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ca21a1a4c2d6c42983ef308df22c5fbe0%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639267906168247993%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=tqBc7RAV%2BhP4dD3Bws4Ehr%2BRHKF3h8w9y%2FIHNnJ4POY%3D&reserved=0>\n\n\n
+UID:8e9e8cf8-e3b7-461a-912c-068bd8ae7e79
+SUMMARY:Training persoonlijk leiderschap (mensgericht maatwerk) 5040
 DTSTART;TZID=W. Europe Standard Time:20261023T100000
 DTEND;TZID=W. Europe Standard Time:20261023T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
-LOCATION:Wyzer Utrecht\, Herculesplein 88\, 3584 AA  UTRECHT\, Herculesplein 88
+LOCATION:Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland
 X-MICROSOFT-CDO-APPT-SEQUENCE:1
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
@@ -442,20 +442,20 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nJe bent ingeschreven voor een Opleidingsdag. Hieronder hebben we de gegevens voor je geplaatst:\n\n  *   Wat: Training persoonlijk leiderschap (mensgericht maatwerk) 5040 | sessie 23 okt 2026\n  *   Wanneer/waar:\n     *   23 okt 2026 10:00 - 16:30\, Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland\n  *   Opleidingsdag type: cursus\n  *   Contactpersoon: Opleidingsadviseurs Academie (online@wyzer.nl)\n\nBekijk hier de informatiepagina van Training persoonlijk leiderschap (mensgericht maatwerk) 5040<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMjL1u9CAQAJ8GurMWFhtTULjxa5z4WT4j-eMse4_IefooSRNpypnJ3pgIWZJX1inl0M4oN6-zK7okMm6EQJhwSqokAyHkaDMFWf0UElodp2RtzE9T5tmpySGMCiCAMFCPh4JvzEPZ4X-ou9z9xnxcAhehV6HXj_uTzuHid775HWlou9ArdWp8Cb0qdHY08vSl5-3VqQkDv0XbJXu-DxK4_OjPk_7Vi8_A9dUke2pd4PJ3LLvXXwEAAP__CAVKFw&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ca21a1a4c2d6c42983ef308df22c5fbe0%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639267906168227012%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=RbFFGvU%2FznqLP5gMrHMFfuyrk2WH3xi5RuNoz9wQvBE%3D&reserved=0>\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMkMlu2zAARL-GusngZlI88GA7VmPVq2LXyyXgJkuJyggSpVT5-qKtDwUGmNMbDJ6VlGpoIycRFwgJwhMSlRIWKlEWYcSoSRRhjCCIHXOIw4Rya6JKMmUIx5oZzrV9pUWSCMQEgVMEoYKAwqqJEfwTGiM--amqOqplGULTATIDOAU41cq8O28nXejtGHrtJr4GOK2rLsS973rdmbbSDuAUr9cG4Cme4vnmuSjEFZf77MbG-Y99fje77eppMa-baxZuz4269efLtP82zfp_SNp_LcMp3yo37LLcJD6fvxVL0d3V9rB-UWWX5cPu0rJfmVvMuBanzVHh6vsqXY6b8-ffDfIUx-mLPjw-3PElx4Luz-9vcZygxVFQ09riuA6nZTFeyWp3eGCPilpZDLb8GJwHFH6OX66d-DoKMoyNA2TmBufDa-vuVRdaFaoPHwXp_ADI7H850SDx7wAAAP__f3WFfA&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ca21a1a4c2d6c42983ef308df22c5fbe0%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639267906168247993%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=tqBc7RAV%2BhP4dD3Bws4Ehr%2BRHKF3h8w9y%2FIHNnJ4POY%3D&reserved=0>\n\n\n
-UID:8e9e8cf8-e3b7-461a-912c-068bd8ae7e79
-SUMMARY:Training persoonlijk leiderschap (mensgericht maatwerk) 5040
+DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nJe staat ingeschreven voor Training Persoonlijk leiderschap (Mensgericht Maatwerk):\n\n  *   Aanvraagnummer: 300488\n  *   Opleider: Wyzer Academie B.V.\n  *   opleidingsaanbod: Training Persoonlijk leiderschap (Mensgericht Maatwerk)\n\n  *   Locatie: Wyzer Utrecht\, Herculesplein 88\, 3584 AA UTRECHT\, Herculesplein 88\n  *   Wanneer:\n     *   23 okt 2026 10:00 - 16:30\n\nGa naar onderstaande link voor meer informatie over de aanvraag:\nTraining Persoonlijk leiderschap (Mensgericht Maatwerk)<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMzUFurSAUgOHVwOzecA6IMGDgxG0YwOOTRNEHaGNX3zRNkyb_9Ms_O6WCmDk56K0AbRCRr04bjwYsdbgoS9Lo2GkPOoAM0SpNPDntg4zRkl0wxKmnYBUQgjECrFSdMUyJdL5AfKde0L93nza-ubW1szI5MBwZjh_PJ5V3bdf8tCvQO28Mx7j5Wstx7K9WfMop_6sMR-wEgOXFLfe8HjdlpsQPzxtvrj0nMTn8iqnQ_4tqm-KRl1R2mqflKNNVqfDmKN9MDn-3_Hb4FQAA__-sslYW&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ce3253aa17f294583b75c08df197229ef%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639257650563395229%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=iDovP5Lt0e73%2BqLH84Vie7E0xI%2BbtKfh4c6Idsv6rKo%3D&reserved=0>\n\nVoor eventuele vragen kun je terecht bij opleider of contactpersoon\n\nOpleider Wyzer Academie B.V.\n\n  *   Opleider email: online@wyzer.nl\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxUkEuP2kAQhH-NfTOapx8HHyDEkF2CQ9hlQy7IY7fxiGGAeRi8vz7ajQ-J1FJ1q0qfWtXkjAnUhJDjJEM4TgkhYZdDxSlJALcJES0QBAnUTZyRlFOWAcOhzONK0LrOIGuJqA8JiIxhIDhNEc4o42kaMCSvEUYfwyKcTM6VVKHKO-euNqDTgBQBKURVn0A3E-t8MzgvYKJVQAolrYu8tl7Y2kgBASmO2x1hHRK-eKMrDgHhhH8gPmXv6JY_-I2W_euyzMon_deYncyYuKx-9erxrKtus64K9GW-m_oBj-b52MkB2dcN59---4WNEVOPcjFLxHZ3__1IF_vrw59l37itEVfzPhVpOVPd2_NyBFDFZ7dxf4lXX_n9_nnR-ShRZOllPp9vxtDSvqyrH9UmimLXK3WD9XD8uW-fsnVXjq_fT5v_GaHJ277pLj3ogKH78A5molXocjdcIaBTZyqppT4eDNw8WHeoL7qV5gzNob2Yg7dgQpeD7gM6_bfvsM_JnwAAAP__n1qfew&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ce3253aa17f294583b75c08df197229ef%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639257650563435121%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=F6wEG1yMmGlRjC9an1SAs5ed6nE7fAIIUmOeJ32buCk%3D&reserved=0>\n\n\n
+UID:bfa94137-4b6d-430f-9dcf-65901d795035
+SUMMARY:Training Persoonlijk leiderschap (Mensgericht Maatwerk)
 DTSTART;TZID=W. Europe Standard Time:20261023T100000
 DTEND;TZID=W. Europe Standard Time:20261023T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
-LOCATION:Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland
+LOCATION:Wyzer Utrecht\, Herculesplein 88\, 3584 AA  UTRECHT\, Herculesplein 88
 X-MICROSOFT-CDO-APPT-SEQUENCE:1
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
@@ -474,7 +474,7 @@ DTSTART;TZID=W. Europe Standard Time:20261023T140000
 DTEND;TZID=W. Europe Standard Time:20261023T144500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -498,7 +498,7 @@ DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261102
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -522,11 +522,35 @@ DTSTART;TZID=W. Europe Standard Time:20261102T110000
 DTEND;TZID=W. Europe Standard Time:20261102T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
 LOCATION:Telefonisch
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/3210679313127345?p=0bpIKrIL2cQQ6XQeeC\nVergadering-id: 321 067 931 312 734 5\nWachtwoordcode: yA2fU6iE\n________________________________\nHeeft u hulp nodig?<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dnl-NL&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Ceb028ce22d7048ef44a008df38ddf3e2%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639292198061936141%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=0qSUscnXgMLA5A563PCpRZbV7jN3HwBiVHER38YdAsU%3D&reserved=0> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjljYmY3MzMtZjhhZi00ZmM3LWE5NDItZDQ3ODViMjE3YWRk%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%22f86e2f98-b5bf-4640-8742-69755b918518%22%7d>\nInbellen via telefoon\n+31 20 258 8508\,\,580811883#<tel:+31202588508\,\,580811883#> Nederland\, Amsterdam\nEen lokaal nummer zoeken<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.cloud.microsoft%2F043d25bb-1959-4402-8a7b-c3a881fc259a%3Fid%3D580811883&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Ceb028ce22d7048ef44a008df38ddf3e2%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639292198061958828%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=adcv%2BubxEwwDLJeoLuyur8GchUS%2Blft6h6uXV%2F0bnAw%3D&reserved=0>\nTelefonische vergadering-id: 580 811 883#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=f86e2f98-b5bf-4640-8742-69755b918518&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_MjljYmY3MzMtZjhhZi00ZmM3LWE5NDItZDQ3ODViMjE3YWRk@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.cloud.microsoft%2Fusp%2Fpstnconferencing&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Ceb028ce22d7048ef44a008df38ddf3e2%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639292198061969373%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=bV50SQR1rqZWGTwTQVvTbc7uiFsvGkdgfPQYgtesplw%3D&reserved=0>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000679B93CFC66ADD0100000000000000001000000046B4877A41868340A8E2446ED2B8E7BA
+SUMMARY:Bila: Florence / Lars
+DTSTART;TZID=W. Europe Standard Time:20261102T140000
+DTEND;TZID=W. Europe Standard Time:20261102T143000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261102T145431Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Microsoft Teams-vergadering
 X-MICROSOFT-CDO-APPT-SEQUENCE:1
 X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
@@ -547,7 +571,7 @@ DTSTART;TZID=W. Europe Standard Time:20261104T090000
 DTEND;TZID=W. Europe Standard Time:20261104T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:4
@@ -572,7 +596,7 @@ DTSTART;TZID=W. Europe Standard Time:20261104T090000
 DTEND;TZID=W. Europe Standard Time:20261104T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:5
@@ -589,20 +613,20 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nJe staat ingeschreven voor Training verdieping dynamiek binnen gemeente:\n\n  *   Aanvraagnummer: 298221\n  *   Opleider: Wyzer Academie B.V.\n  *   opleidingsaanbod: Training verdieping dynamiek binnen gemeente\n\n  *   Locatie: Wyzer Utrecht\, Herculesplein 88\, 3584 AA UTRECHT\, Herculesplein 88\n  *   Wanneer:\n     *   04 nov 2026 10:00 - 16:30\n\nGa naar onderstaande link voor meer informatie over de aanvraag:\nTraining verdieping dynamiek binnen gemeente<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMzEFuqCAUQNHVwEwDDwQcMHDiNgzI40ui6Ae0satvmqZJkzu9J1gpPQsULddmZDDKcaCb9V4HsQ7RIIvcG9QiDmxVIFh0TgdDk1XOgVq1NmCUX0YEA1xJbpTioCORLF0dZ9_Jjuv-cGmnu91auyoRE4GZwPzxfmLpa7vD226Pfd4JzOvuai3neXStuJRT_lcJzFJrYJIWG5-wnQ9mItnPnnfaLOaHiOmvRJtt74VETL_MUvD_jbUt65ljKgeGJZ5luSsW-lj4CgAA__8A8VWB&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Cf1d7fd5a415b4fb7ec9a08df0f16dbb6%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639246263301966940%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=RFeouZBPeExweHiskDUVbA5RpBb5susmn%2BP9iGaPRbM%3D&reserved=0>\n\nVoor eventuele vragen kun je terecht bij opleider of contactpersoon\n\nOpleider Wyzer Academie B.V.\n\n  *   Opleider email: online@wyzer.nl\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxUkMGOmzAQhp8GbkTYOLY5cIAkqFnalN0kS-gFYWyCN-BkbZNd8vTVthxaaaT5NBp9M_p5hBDzuSsiQGjowxCFS7eLaIAZEIyKIKSIwAYzEC5rTltIWUgb5MoI1zXEDSEUUsyqUEAKAUaAYgwgaR3ky5sH_K9CHiCLoZa920edtTfjBLEDUwemrG4uQvGFsSOf7MjEQvUOTHtprDcqMzLTaMnE1-b-2-fx4cAlXMJUgxk26eEvJUn80qzMz9fTUV_snqXlVGoo-iQryqEbRUH1j_00vBr4a5UfB5RvS1J0XZltjvbFXtZTcbo9P8dmtrWq4ShLV8ukPfTms8gy_7QVfH1-otmO4h0hYzm_MIUb2V_P_E1-_JkE67l53sSesm0z5IeyJUOySTxvxPMBkM3weIO7_FAP6_fvKn_I-H-Hq6P2zrvrXSgH-R_TQ-iF6l0bCXV3gvjf2Fwb2ekmnCC2upZKqnOlxfsojK2aq2qlHgSv2quuRiO0e4_g7wAAAP__Jcmbwg&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Cf1d7fd5a415b4fb7ec9a08df0f16dbb6%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639246263302011623%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wYSs9wGNJQxFsIDD9uJN8gEqW6XSw2A50wBlK1vJbBc%3D&reserved=0>\n\n\n
-UID:9313c384-b162-4169-8d1c-b3e69f662a9b
-SUMMARY:Training verdieping dynamiek binnen gemeente
+DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nJe bent ingeschreven voor een opleidingsdag. Hieronder hebben we de gegevens voor je geplaatst:\n\n  *   Wat: Verdieping dynamiek binnen de gemeente 5086 | sessie 04 nov 2026\n  *   Wanneer/waar:\n     *   04 nov 2026 10:00 - 16:30\, Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland\n  *   opleidingsdag type: opleiding\n  *   Contactpersoon: Opleidingsadviseurs Academie (online@wyzer.nl)\n\nBekijk hier de informatiepagina van Verdieping dynamiek binnen de gemeente 5086<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMjD1utDAUAE9jd4v8fjDrwgUN11iZ9ePDEp8XwVtH5PRRkibSlDOTI_PsspUIQ0CGgcjZNaY8B_9MALz4IUCgOy_89MG7QHO_iC3Rp-xBCIeUk38gCCCBz3wnxB4Hw67sN3Df8A3Zd_9T2ewWV9X9NDQanAxOH9enHN2p73zpe5aubgYnaVL1NDhB71zf2yMuLa-vJtWw-y3qZjXqtYuh8Ud_HPKvnHokLa9qNUpthsa_Y9sifgUAAP__eJFJKA&data=05%7C02%7Cfvdhoven%40wyzer.nl%7C7c37cb7ea2ba46fb54bd08df2de6c6db%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639280141590040792%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=BQmf4wAUZ3buJJnhPlG3RObr3qUKPPnFAjTh8Sjwu8U%3D&reserved=0>\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMUM2OmzAQfhpzI8JjG5IDhyQtzR9B2dU22b2sbDwkbhxCwJDC01dtqVRppJnR9yd9OuZcBdrDmEYz4DRiLPAusYxYMaXBLAijqZqqPMyZEIILIWYSigg8E4dShxQZRFLL8BMoUmA01HzKAAREhAem8mnwe7gPPJzcpLGejS_OVQ1hcwIJgUTJ_IqlnjSu1b1rFU5KSyCxpnF-WzatavLaKCSQ6OvytqzSdbF7zwqhksMRX3oCAgQsen5fHZIfH9XfPzl9708vxdZmh6v9GT42j3WQLkbudreIVIqr1NWbV6DLgTanc5H1j_Y07PWwbLGhzoxG-41er9Kv-F7v2618qvT5B2BffF8vo-z28Q0vV_sKZ2N9fzjStzPPx5w0f-7HM7vJ3bHv3v6Jx-XVcdHpy73DkvDg2Q9YT0rrudj1FRI2xw5L91nj2TSuls7cS8_FWHaEzf-vy-ti-BUAAP__d2SLqQ&data=05%7C02%7Cfvdhoven%40wyzer.nl%7C7c37cb7ea2ba46fb54bd08df2de6c6db%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639280141590057642%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Zy%2FLpM28pHOAHUzBfbUD6nNGymvCa9UmZiQlV2%2BSxcw%3D&reserved=0>\n\n\n
+UID:9d7cd24c-7041-4a9a-a63b-ec71090d1de8
+SUMMARY:Verdieping dynamiek binnen de gemeente 5086
 DTSTART;TZID=W. Europe Standard Time:20261104T100000
 DTEND;TZID=W. Europe Standard Time:20261104T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
-LOCATION:Wyzer Utrecht\, Herculesplein 88\, 3584 AA  UTRECHT\, Herculesplein 88
+LOCATION:Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland
 X-MICROSOFT-CDO-APPT-SEQUENCE:1
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
@@ -613,20 +637,20 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nJe bent ingeschreven voor een opleidingsdag. Hieronder hebben we de gegevens voor je geplaatst:\n\n  *   Wat: Verdieping dynamiek binnen de gemeente 5086 | sessie 04 nov 2026\n  *   Wanneer/waar:\n     *   04 nov 2026 10:00 - 16:30\, Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland\n  *   opleidingsdag type: opleiding\n  *   Contactpersoon: Opleidingsadviseurs Academie (online@wyzer.nl)\n\nBekijk hier de informatiepagina van Verdieping dynamiek binnen de gemeente 5086<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMjD1utDAUAE9jd4v8fjDrwgUN11iZ9ePDEp8XwVtH5PRRkibSlDOTI_PsspUIQ0CGgcjZNaY8B_9MALz4IUCgOy_89MG7QHO_iC3Rp-xBCIeUk38gCCCBz3wnxB4Hw67sN3Df8A3Zd_9T2ewWV9X9NDQanAxOH9enHN2p73zpe5aubgYnaVL1NDhB71zf2yMuLa-vJtWw-y3qZjXqtYuh8Ud_HPKvnHokLa9qNUpthsa_Y9sifgUAAP__eJFJKA&data=05%7C02%7Cfvdhoven%40wyzer.nl%7C7c37cb7ea2ba46fb54bd08df2de6c6db%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639280141590040792%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=BQmf4wAUZ3buJJnhPlG3RObr3qUKPPnFAjTh8Sjwu8U%3D&reserved=0>\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMUM2OmzAQfhpzI8JjG5IDhyQtzR9B2dU22b2sbDwkbhxCwJDC01dtqVRppJnR9yd9OuZcBdrDmEYz4DRiLPAusYxYMaXBLAijqZqqPMyZEIILIWYSigg8E4dShxQZRFLL8BMoUmA01HzKAAREhAem8mnwe7gPPJzcpLGejS_OVQ1hcwIJgUTJ_IqlnjSu1b1rFU5KSyCxpnF-WzatavLaKCSQ6OvytqzSdbF7zwqhksMRX3oCAgQsen5fHZIfH9XfPzl9708vxdZmh6v9GT42j3WQLkbudreIVIqr1NWbV6DLgTanc5H1j_Y07PWwbLGhzoxG-41er9Kv-F7v2618qvT5B2BffF8vo-z28Q0vV_sKZ2N9fzjStzPPx5w0f-7HM7vJ3bHv3v6Jx-XVcdHpy73DkvDg2Q9YT0rrudj1FRI2xw5L91nj2TSuls7cS8_FWHaEzf-vy-ti-BUAAP__d2SLqQ&data=05%7C02%7Cfvdhoven%40wyzer.nl%7C7c37cb7ea2ba46fb54bd08df2de6c6db%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639280141590057642%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Zy%2FLpM28pHOAHUzBfbUD6nNGymvCa9UmZiQlV2%2BSxcw%3D&reserved=0>\n\n\n
-UID:9d7cd24c-7041-4a9a-a63b-ec71090d1de8
-SUMMARY:Verdieping dynamiek binnen de gemeente 5086
+DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nJe staat ingeschreven voor Training verdieping dynamiek binnen gemeente:\n\n  *   Aanvraagnummer: 298221\n  *   Opleider: Wyzer Academie B.V.\n  *   opleidingsaanbod: Training verdieping dynamiek binnen gemeente\n\n  *   Locatie: Wyzer Utrecht\, Herculesplein 88\, 3584 AA UTRECHT\, Herculesplein 88\n  *   Wanneer:\n     *   04 nov 2026 10:00 - 16:30\n\nGa naar onderstaande link voor meer informatie over de aanvraag:\nTraining verdieping dynamiek binnen gemeente<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMzEFuqCAUQNHVwEwDDwQcMHDiNgzI40ui6Ae0satvmqZJkzu9J1gpPQsULddmZDDKcaCb9V4HsQ7RIIvcG9QiDmxVIFh0TgdDk1XOgVq1NmCUX0YEA1xJbpTioCORLF0dZ9_Jjuv-cGmnu91auyoRE4GZwPzxfmLpa7vD226Pfd4JzOvuai3neXStuJRT_lcJzFJrYJIWG5-wnQ9mItnPnnfaLOaHiOmvRJtt74VETL_MUvD_jbUt65ljKgeGJZ5luSsW-lj4CgAA__8A8VWB&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Cf1d7fd5a415b4fb7ec9a08df0f16dbb6%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639246263301966940%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=RFeouZBPeExweHiskDUVbA5RpBb5susmn%2BP9iGaPRbM%3D&reserved=0>\n\nVoor eventuele vragen kun je terecht bij opleider of contactpersoon\n\nOpleider Wyzer Academie B.V.\n\n  *   Opleider email: online@wyzer.nl\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxUkMGOmzAQhp8GbkTYOLY5cIAkqFnalN0kS-gFYWyCN-BkbZNd8vTVthxaaaT5NBp9M_p5hBDzuSsiQGjowxCFS7eLaIAZEIyKIKSIwAYzEC5rTltIWUgb5MoI1zXEDSEUUsyqUEAKAUaAYgwgaR3ky5sH_K9CHiCLoZa920edtTfjBLEDUwemrG4uQvGFsSOf7MjEQvUOTHtprDcqMzLTaMnE1-b-2-fx4cAlXMJUgxk26eEvJUn80qzMz9fTUV_snqXlVGoo-iQryqEbRUH1j_00vBr4a5UfB5RvS1J0XZltjvbFXtZTcbo9P8dmtrWq4ShLV8ukPfTms8gy_7QVfH1-otmO4h0hYzm_MIUb2V_P_E1-_JkE67l53sSesm0z5IeyJUOySTxvxPMBkM3weIO7_FAP6_fvKn_I-H-Hq6P2zrvrXSgH-R_TQ-iF6l0bCXV3gvjf2Fwb2ekmnCC2upZKqnOlxfsojK2aq2qlHgSv2quuRiO0e4_g7wAAAP__Jcmbwg&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Cf1d7fd5a415b4fb7ec9a08df0f16dbb6%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639246263302011623%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wYSs9wGNJQxFsIDD9uJN8gEqW6XSw2A50wBlK1vJbBc%3D&reserved=0>\n\n\n
+UID:9313c384-b162-4169-8d1c-b3e69f662a9b
+SUMMARY:Training verdieping dynamiek binnen gemeente
 DTSTART;TZID=W. Europe Standard Time:20261104T100000
 DTEND;TZID=W. Europe Standard Time:20261104T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
-LOCATION:Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland
+LOCATION:Wyzer Utrecht\, Herculesplein 88\, 3584 AA  UTRECHT\, Herculesplein 88
 X-MICROSOFT-CDO-APPT-SEQUENCE:1
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
@@ -645,7 +669,7 @@ DTSTART;TZID=W. Europe Standard Time:20261104T103000
 DTEND;TZID=W. Europe Standard Time:20261104T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -669,7 +693,7 @@ DTSTART;TZID=W. Europe Standard Time:20261104T120000
 DTEND;TZID=W. Europe Standard Time:20261104T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:3
@@ -686,18 +710,18 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/3846093936351448?p=zkSVGOPnJ9vCvOexAO\nVergadering-id: 384 609 393 635 144 8\nWachtwoordcode: sE7t8Fy3\n________________________________\nHeeft u hulp nodig?<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dnl-NL&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Cba51b3a585e14753f56308df2f709b15%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639281832815830147%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=fsHTWeauyLyJjoVkmOdftsTW9wqXfF1z2moRIu9gYws%3D&reserved=0> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDY0OThjZGEtYWRhMy00OWFlLThmNGQtNGE2ZDI2ZmUzNjYx%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%2243d8a9b8-91c7-461c-a1bf-26f723cd3ad9%22%7d>\nInbellen via telefoon\n+31 20 258 8508\,\,343909601#<tel:+31202588508\,\,343909601#> Nederland\, Amsterdam\nEen lokaal nummer zoeken<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.cloud.microsoft%2F043d25bb-1959-4402-8a7b-c3a881fc259a%3Fid%3D343909601&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Cba51b3a585e14753f56308df2f709b15%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639281832815848152%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=RJnuWYANI4vhvF3FvjJwFs8DFlLz%2BI8aNjB0VORD5Qc%3D&reserved=0>\nTelefonische vergadering-id: 343 909 601#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=43d8a9b8-91c7-461c-a1bf-26f723cd3ad9&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_NDY0OThjZGEtYWRhMy00OWFlLThmNGQtNGE2ZDI2ZmUzNjYx@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.cloud.microsoft%2Fusp%2Fpstnconferencing&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Cba51b3a585e14753f56308df2f709b15%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639281832815858581%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=IJwYeOx3fa6fp%2FBpApdc3wWpY51LCyFr%2B%2Bvnb2bTSLA%3D&reserved=0>\n________________________________________________________________________________\n
-UID:040000008200E00074C5B7101A82E00800000000362BF6765961DD010000000000000000100000007E8D8304FE0B4545809FD4E9123B50B0
-SUMMARY:Vervolgoverleg communicatiestrategie
-DTSTART;TZID=W. Europe Standard Time:20261111T140000
-DTEND;TZID=W. Europe Standard Time:20261111T153000
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/3565082518588874?p=d3uXVlwIOR1LnWw80m\nVergadering-id: 356 508 251 858 887 4\nWachtwoordcode: Ed39fS6W\n________________________________\nHeeft u hulp nodig?<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dnl-NL&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Cee0d2c1a5691426fc01108df38e2b84b%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639292218538539163%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ligk8O%2FjHnkllel2vd8FtjYjrOkRf%2FT1SRpdmTIoZ9E%3D&reserved=0> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yjc5YmRjYjAtNzQyMi00NjIxLWE4YTMtMTA2NzVkODE3YjMy%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%22f86e2f98-b5bf-4640-8742-69755b918518%22%7d>\nInbellen via telefoon\n+31 20 258 8508\,\,11485143#<tel:+31202588508\,\,11485143#> Nederland\, Amsterdam\nEen lokaal nummer zoeken<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.cloud.microsoft%2F043d25bb-1959-4402-8a7b-c3a881fc259a%3Fid%3D11485143&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Cee0d2c1a5691426fc01108df38e2b84b%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639292218538563190%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pqbBFRAVEWLrRZ1Ik0V01NKhSYOnTjRB4Fv3jQz8TAc%3D&reserved=0>\nTelefonische vergadering-id: 114 851 43#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=f86e2f98-b5bf-4640-8742-69755b918518&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_Yjc5YmRjYjAtNzQyMi00NjIxLWE4YTMtMTA2NzVkODE3YjMy@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.cloud.microsoft%2Fusp%2Fpstnconferencing&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Cee0d2c1a5691426fc01108df38e2b84b%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639292218538579071%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Z3uhL%2BDpZ5yDbMikVAQ6bRaVif96wNePkmIj6LN%2FQG0%3D&reserved=0>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000DABB9494CB6ADD0100000000000000001000000086707258B30F824A8E1C454E0E09949F
+SUMMARY:Bila: Florence / Lars
+DTSTART;TZID=W. Europe Standard Time:20261109T133000
+DTEND;TZID=W. Europe Standard Time:20261109T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
-LOCATION:Vergaderruimte 1.1 (gebouw D\, 1e verdieping) (NL)
+LOCATION:Microsoft Teams-vergadering
 X-MICROSOFT-CDO-APPT-SEQUENCE:1
 X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
@@ -717,7 +741,31 @@ DTSTART;TZID=W. Europe Standard Time:20261111T140000
 DTEND;TZID=W. Europe Standard Time:20261111T153000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION:Vergaderruimte 1.1 (gebouw D\, 1e verdieping) (NL)
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams-vergadering\nDeelnemen: https://teams.microsoft.com/meet/3846093936351448?p=zkSVGOPnJ9vCvOexAO\nVergadering-id: 384 609 393 635 144 8\nWachtwoordcode: sE7t8Fy3\n________________________________\nHeeft u hulp nodig?<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting%3Fomkt%3Dnl-NL&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Cba51b3a585e14753f56308df2f709b15%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639281832815830147%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=fsHTWeauyLyJjoVkmOdftsTW9wqXfF1z2moRIu9gYws%3D&reserved=0> | Systeemreferentie<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDY0OThjZGEtYWRhMy00OWFlLThmNGQtNGE2ZDI2ZmUzNjYx%40thread.v2/0?context=%7b%22Tid%22%3a%223fe99b51-e7b8-4586-ac15-d51c0df4d4a4%22%2c%22Oid%22%3a%2243d8a9b8-91c7-461c-a1bf-26f723cd3ad9%22%7d>\nInbellen via telefoon\n+31 20 258 8508\,\,343909601#<tel:+31202588508\,\,343909601#> Nederland\, Amsterdam\nEen lokaal nummer zoeken<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.cloud.microsoft%2F043d25bb-1959-4402-8a7b-c3a881fc259a%3Fid%3D343909601&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Cba51b3a585e14753f56308df2f709b15%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639281832815848152%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=RJnuWYANI4vhvF3FvjJwFs8DFlLz%2BI8aNjB0VORD5Qc%3D&reserved=0>\nTelefonische vergadering-id: 343 909 601#\nVoor organisatoren: Vergaderopties<https://teams.microsoft.com/meetingOptions/?organizerId=43d8a9b8-91c7-461c-a1bf-26f723cd3ad9&tenantId=3fe99b51-e7b8-4586-ac15-d51c0df4d4a4&threadId=19_meeting_NDY0OThjZGEtYWRhMy00OWFlLThmNGQtNGE2ZDI2ZmUzNjYx@thread.v2&messageId=0&language=nl-NL> | Pincode voor inbellen opnieuw instellen<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdialin.teams.cloud.microsoft%2Fusp%2Fpstnconferencing&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Cba51b3a585e14753f56308df2f709b15%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639281832815858581%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=IJwYeOx3fa6fp%2FBpApdc3wWpY51LCyFr%2B%2Bvnb2bTSLA%3D&reserved=0>\n________________________________________________________________________________\n
+UID:040000008200E00074C5B7101A82E00800000000362BF6765961DD010000000000000000100000007E8D8304FE0B4545809FD4E9123B50B0
+SUMMARY:Vervolgoverleg communicatiestrategie
+DTSTART;TZID=W. Europe Standard Time:20261111T140000
+DTEND;TZID=W. Europe Standard Time:20261111T153000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -742,7 +790,7 @@ DTSTART;TZID=W. Europe Standard Time:20261202T090000
 DTEND;TZID=W. Europe Standard Time:20261202T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261102T044428Z
+DTSTAMP:20261102T145431Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
