@@ -29,7 +29,7 @@ DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -54,7 +54,7 @@ DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -80,7 +80,7 @@ DTSTART;TZID=W. Europe Standard Time:20261014T090000
 DTEND;TZID=W. Europe Standard Time:20261014T093000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -105,7 +105,7 @@ DTSTART;TZID=W. Europe Standard Time:20261014T103000
 DTEND;TZID=W. Europe Standard Time:20261014T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:12
@@ -130,7 +130,7 @@ DTSTART;TZID=W. Europe Standard Time:20261014T103000
 DTEND;TZID=W. Europe Standard Time:20261014T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:12
@@ -154,7 +154,7 @@ DTSTART;TZID=W. Europe Standard Time:20261014T130000
 DTEND;TZID=W. Europe Standard Time:20261014T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -180,7 +180,7 @@ DTSTART;TZID=W. Europe Standard Time:20261014T130000
 DTEND;TZID=W. Europe Standard Time:20261014T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -204,7 +204,7 @@ DTSTART;TZID=W. Europe Standard Time:20261014T140000
 DTEND;TZID=W. Europe Standard Time:20261014T150000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -229,7 +229,7 @@ DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -254,7 +254,7 @@ DTSTART;TZID=W. Europe Standard Time:20261021T103000
 DTEND;TZID=W. Europe Standard Time:20261021T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -278,7 +278,7 @@ DTSTART;TZID=W. Europe Standard Time:20261021T130000
 DTEND;TZID=W. Europe Standard Time:20261021T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:4
@@ -303,7 +303,7 @@ DTSTART;TZID=W. Europe Standard Time:20261023T090000
 DTEND;TZID=W. Europe Standard Time:20261023T094500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:3
@@ -320,20 +320,20 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nJe bent ingeschreven voor een Opleidingsdag. Hieronder hebben we de gegevens voor je geplaatst:\n\n  *   Wat: Training persoonlijk leiderschap (mensgericht maatwerk) 5040 | sessie 23 okt 2026\n  *   Wanneer/waar:\n     *   23 okt 2026 10:00 - 16:30\, Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland\n  *   Opleidingsdag type: cursus\n  *   Contactpersoon: Opleidingsadviseurs Academie (online@wyzer.nl)\n\nBekijk hier de informatiepagina van Training persoonlijk leiderschap (mensgericht maatwerk) 5040<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMjL1u9CAQAJ8GurMWFhtTULjxa5z4WT4j-eMse4_IefooSRNpypnJ3pgIWZJX1inl0M4oN6-zK7okMm6EQJhwSqokAyHkaDMFWf0UElodp2RtzE9T5tmpySGMCiCAMFCPh4JvzEPZ4X-ou9z9xnxcAhehV6HXj_uTzuHid775HWlou9ArdWp8Cb0qdHY08vSl5-3VqQkDv0XbJXu-DxK4_OjPk_7Vi8_A9dUke2pd4PJ3LLvXXwEAAP__CAVKFw&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ca21a1a4c2d6c42983ef308df22c5fbe0%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639267906168227012%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=RbFFGvU%2FznqLP5gMrHMFfuyrk2WH3xi5RuNoz9wQvBE%3D&reserved=0>\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMkMlu2zAARL-GusngZlI88GA7VmPVq2LXyyXgJkuJyggSpVT5-qKtDwUGmNMbDJ6VlGpoIycRFwgJwhMSlRIWKlEWYcSoSRRhjCCIHXOIw4Rya6JKMmUIx5oZzrV9pUWSCMQEgVMEoYKAwqqJEfwTGiM--amqOqplGULTATIDOAU41cq8O28nXejtGHrtJr4GOK2rLsS973rdmbbSDuAUr9cG4Cme4vnmuSjEFZf77MbG-Y99fje77eppMa-baxZuz4269efLtP82zfp_SNp_LcMp3yo37LLcJD6fvxVL0d3V9rB-UWWX5cPu0rJfmVvMuBanzVHh6vsqXY6b8-ffDfIUx-mLPjw-3PElx4Luz-9vcZygxVFQ09riuA6nZTFeyWp3eGCPilpZDLb8GJwHFH6OX66d-DoKMoyNA2TmBufDa-vuVRdaFaoPHwXp_ADI7H850SDx7wAAAP__f3WFfA&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ca21a1a4c2d6c42983ef308df22c5fbe0%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639267906168247993%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=tqBc7RAV%2BhP4dD3Bws4Ehr%2BRHKF3h8w9y%2FIHNnJ4POY%3D&reserved=0>\n\n\n
-UID:8e9e8cf8-e3b7-461a-912c-068bd8ae7e79
-SUMMARY:Training persoonlijk leiderschap (mensgericht maatwerk) 5040
+DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nJe staat ingeschreven voor Training Persoonlijk leiderschap (Mensgericht Maatwerk):\n\n  *   Aanvraagnummer: 300488\n  *   Opleider: Wyzer Academie B.V.\n  *   opleidingsaanbod: Training Persoonlijk leiderschap (Mensgericht Maatwerk)\n\n  *   Locatie: Wyzer Utrecht\, Herculesplein 88\, 3584 AA UTRECHT\, Herculesplein 88\n  *   Wanneer:\n     *   23 okt 2026 10:00 - 16:30\n\nGa naar onderstaande link voor meer informatie over de aanvraag:\nTraining Persoonlijk leiderschap (Mensgericht Maatwerk)<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMzUFurSAUgOHVwOzecA6IMGDgxG0YwOOTRNEHaGNX3zRNkyb_9Ms_O6WCmDk56K0AbRCRr04bjwYsdbgoS9Lo2GkPOoAM0SpNPDntg4zRkl0wxKmnYBUQgjECrFSdMUyJdL5AfKde0L93nza-ubW1szI5MBwZjh_PJ5V3bdf8tCvQO28Mx7j5Wstx7K9WfMop_6sMR-wEgOXFLfe8HjdlpsQPzxtvrj0nMTn8iqnQ_4tqm-KRl1R2mqflKNNVqfDmKN9MDn-3_Hb4FQAA__-sslYW&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ce3253aa17f294583b75c08df197229ef%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639257650563395229%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=iDovP5Lt0e73%2BqLH84Vie7E0xI%2BbtKfh4c6Idsv6rKo%3D&reserved=0>\n\nVoor eventuele vragen kun je terecht bij opleider of contactpersoon\n\nOpleider Wyzer Academie B.V.\n\n  *   Opleider email: online@wyzer.nl\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxUkEuP2kAQhH-NfTOapx8HHyDEkF2CQ9hlQy7IY7fxiGGAeRi8vz7ajQ-J1FJ1q0qfWtXkjAnUhJDjJEM4TgkhYZdDxSlJALcJES0QBAnUTZyRlFOWAcOhzONK0LrOIGuJqA8JiIxhIDhNEc4o42kaMCSvEUYfwyKcTM6VVKHKO-euNqDTgBQBKURVn0A3E-t8MzgvYKJVQAolrYu8tl7Y2kgBASmO2x1hHRK-eKMrDgHhhH8gPmXv6JY_-I2W_euyzMon_deYncyYuKx-9erxrKtus64K9GW-m_oBj-b52MkB2dcN59---4WNEVOPcjFLxHZ3__1IF_vrw59l37itEVfzPhVpOVPd2_NyBFDFZ7dxf4lXX_n9_nnR-ShRZOllPp9vxtDSvqyrH9UmimLXK3WD9XD8uW-fsnVXjq_fT5v_GaHJ277pLj3ogKH78A5molXocjdcIaBTZyqppT4eDNw8WHeoL7qV5gzNob2Yg7dgQpeD7gM6_bfvsM_JnwAAAP__n1qfew&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ce3253aa17f294583b75c08df197229ef%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639257650563435121%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=F6wEG1yMmGlRjC9an1SAs5ed6nE7fAIIUmOeJ32buCk%3D&reserved=0>\n\n\n
+UID:bfa94137-4b6d-430f-9dcf-65901d795035
+SUMMARY:Training Persoonlijk leiderschap (Mensgericht Maatwerk)
 DTSTART;TZID=W. Europe Standard Time:20261023T100000
 DTEND;TZID=W. Europe Standard Time:20261023T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
-LOCATION:Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland
+LOCATION:Wyzer Utrecht\, Herculesplein 88\, 3584 AA  UTRECHT\, Herculesplein 88
 X-MICROSOFT-CDO-APPT-SEQUENCE:1
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
@@ -344,20 +344,20 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nJe staat ingeschreven voor Training Persoonlijk leiderschap (Mensgericht Maatwerk):\n\n  *   Aanvraagnummer: 300488\n  *   Opleider: Wyzer Academie B.V.\n  *   opleidingsaanbod: Training Persoonlijk leiderschap (Mensgericht Maatwerk)\n\n  *   Locatie: Wyzer Utrecht\, Herculesplein 88\, 3584 AA UTRECHT\, Herculesplein 88\n  *   Wanneer:\n     *   23 okt 2026 10:00 - 16:30\n\nGa naar onderstaande link voor meer informatie over de aanvraag:\nTraining Persoonlijk leiderschap (Mensgericht Maatwerk)<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMzUFurSAUgOHVwOzecA6IMGDgxG0YwOOTRNEHaGNX3zRNkyb_9Ms_O6WCmDk56K0AbRCRr04bjwYsdbgoS9Lo2GkPOoAM0SpNPDntg4zRkl0wxKmnYBUQgjECrFSdMUyJdL5AfKde0L93nza-ubW1szI5MBwZjh_PJ5V3bdf8tCvQO28Mx7j5Wstx7K9WfMop_6sMR-wEgOXFLfe8HjdlpsQPzxtvrj0nMTn8iqnQ_4tqm-KRl1R2mqflKNNVqfDmKN9MDn-3_Hb4FQAA__-sslYW&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ce3253aa17f294583b75c08df197229ef%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639257650563395229%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=iDovP5Lt0e73%2BqLH84Vie7E0xI%2BbtKfh4c6Idsv6rKo%3D&reserved=0>\n\nVoor eventuele vragen kun je terecht bij opleider of contactpersoon\n\nOpleider Wyzer Academie B.V.\n\n  *   Opleider email: online@wyzer.nl\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxUkEuP2kAQhH-NfTOapx8HHyDEkF2CQ9hlQy7IY7fxiGGAeRi8vz7ajQ-J1FJ1q0qfWtXkjAnUhJDjJEM4TgkhYZdDxSlJALcJES0QBAnUTZyRlFOWAcOhzONK0LrOIGuJqA8JiIxhIDhNEc4o42kaMCSvEUYfwyKcTM6VVKHKO-euNqDTgBQBKURVn0A3E-t8MzgvYKJVQAolrYu8tl7Y2kgBASmO2x1hHRK-eKMrDgHhhH8gPmXv6JY_-I2W_euyzMon_deYncyYuKx-9erxrKtus64K9GW-m_oBj-b52MkB2dcN59---4WNEVOPcjFLxHZ3__1IF_vrw59l37itEVfzPhVpOVPd2_NyBFDFZ7dxf4lXX_n9_nnR-ShRZOllPp9vxtDSvqyrH9UmimLXK3WD9XD8uW-fsnVXjq_fT5v_GaHJ277pLj3ogKH78A5molXocjdcIaBTZyqppT4eDNw8WHeoL7qV5gzNob2Yg7dgQpeD7gM6_bfvsM_JnwAAAP__n1qfew&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ce3253aa17f294583b75c08df197229ef%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639257650563435121%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=F6wEG1yMmGlRjC9an1SAs5ed6nE7fAIIUmOeJ32buCk%3D&reserved=0>\n\n\n
-UID:bfa94137-4b6d-430f-9dcf-65901d795035
-SUMMARY:Training Persoonlijk leiderschap (Mensgericht Maatwerk)
+DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nJe bent ingeschreven voor een Opleidingsdag. Hieronder hebben we de gegevens voor je geplaatst:\n\n  *   Wat: Training persoonlijk leiderschap (mensgericht maatwerk) 5040 | sessie 23 okt 2026\n  *   Wanneer/waar:\n     *   23 okt 2026 10:00 - 16:30\, Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland\n  *   Opleidingsdag type: cursus\n  *   Contactpersoon: Opleidingsadviseurs Academie (online@wyzer.nl)\n\nBekijk hier de informatiepagina van Training persoonlijk leiderschap (mensgericht maatwerk) 5040<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMjL1u9CAQAJ8GurMWFhtTULjxa5z4WT4j-eMse4_IefooSRNpypnJ3pgIWZJX1inl0M4oN6-zK7okMm6EQJhwSqokAyHkaDMFWf0UElodp2RtzE9T5tmpySGMCiCAMFCPh4JvzEPZ4X-ou9z9xnxcAhehV6HXj_uTzuHid775HWlou9ArdWp8Cb0qdHY08vSl5-3VqQkDv0XbJXu-DxK4_OjPk_7Vi8_A9dUke2pd4PJ3LLvXXwEAAP__CAVKFw&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ca21a1a4c2d6c42983ef308df22c5fbe0%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639267906168227012%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=RbFFGvU%2FznqLP5gMrHMFfuyrk2WH3xi5RuNoz9wQvBE%3D&reserved=0>\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMkMlu2zAARL-GusngZlI88GA7VmPVq2LXyyXgJkuJyggSpVT5-qKtDwUGmNMbDJ6VlGpoIycRFwgJwhMSlRIWKlEWYcSoSRRhjCCIHXOIw4Rya6JKMmUIx5oZzrV9pUWSCMQEgVMEoYKAwqqJEfwTGiM--amqOqplGULTATIDOAU41cq8O28nXejtGHrtJr4GOK2rLsS973rdmbbSDuAUr9cG4Cme4vnmuSjEFZf77MbG-Y99fje77eppMa-baxZuz4269efLtP82zfp_SNp_LcMp3yo37LLcJD6fvxVL0d3V9rB-UWWX5cPu0rJfmVvMuBanzVHh6vsqXY6b8-ffDfIUx-mLPjw-3PElx4Luz-9vcZygxVFQ09riuA6nZTFeyWp3eGCPilpZDLb8GJwHFH6OX66d-DoKMoyNA2TmBufDa-vuVRdaFaoPHwXp_ADI7H850SDx7wAAAP__f3WFfA&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ca21a1a4c2d6c42983ef308df22c5fbe0%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639267906168247993%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=tqBc7RAV%2BhP4dD3Bws4Ehr%2BRHKF3h8w9y%2FIHNnJ4POY%3D&reserved=0>\n\n\n
+UID:8e9e8cf8-e3b7-461a-912c-068bd8ae7e79
+SUMMARY:Training persoonlijk leiderschap (mensgericht maatwerk) 5040
 DTSTART;TZID=W. Europe Standard Time:20261023T100000
 DTEND;TZID=W. Europe Standard Time:20261023T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
-LOCATION:Wyzer Utrecht\, Herculesplein 88\, 3584 AA  UTRECHT\, Herculesplein 88
+LOCATION:Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland
 X-MICROSOFT-CDO-APPT-SEQUENCE:1
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
@@ -376,7 +376,7 @@ DTSTART;TZID=W. Europe Standard Time:20261023T140000
 DTEND;TZID=W. Europe Standard Time:20261023T144500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -400,7 +400,7 @@ DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261102
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -424,7 +424,7 @@ DTSTART;TZID=W. Europe Standard Time:20261102T110000
 DTEND;TZID=W. Europe Standard Time:20261102T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -448,7 +448,7 @@ DTSTART;TZID=W. Europe Standard Time:20261102T140000
 DTEND;TZID=W. Europe Standard Time:20261102T143000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -473,7 +473,7 @@ DTSTART;TZID=W. Europe Standard Time:20261104T090000
 DTEND;TZID=W. Europe Standard Time:20261104T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:5
@@ -498,7 +498,7 @@ DTSTART;TZID=W. Europe Standard Time:20261104T090000
 DTEND;TZID=W. Europe Standard Time:20261104T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:4
@@ -515,20 +515,20 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nJe staat ingeschreven voor Training verdieping dynamiek binnen gemeente:\n\n  *   Aanvraagnummer: 298221\n  *   Opleider: Wyzer Academie B.V.\n  *   opleidingsaanbod: Training verdieping dynamiek binnen gemeente\n\n  *   Locatie: Wyzer Utrecht\, Herculesplein 88\, 3584 AA UTRECHT\, Herculesplein 88\n  *   Wanneer:\n     *   04 nov 2026 10:00 - 16:30\n\nGa naar onderstaande link voor meer informatie over de aanvraag:\nTraining verdieping dynamiek binnen gemeente<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMzEFuqCAUQNHVwEwDDwQcMHDiNgzI40ui6Ae0satvmqZJkzu9J1gpPQsULddmZDDKcaCb9V4HsQ7RIIvcG9QiDmxVIFh0TgdDk1XOgVq1NmCUX0YEA1xJbpTioCORLF0dZ9_Jjuv-cGmnu91auyoRE4GZwPzxfmLpa7vD226Pfd4JzOvuai3neXStuJRT_lcJzFJrYJIWG5-wnQ9mItnPnnfaLOaHiOmvRJtt74VETL_MUvD_jbUt65ljKgeGJZ5luSsW-lj4CgAA__8A8VWB&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Cf1d7fd5a415b4fb7ec9a08df0f16dbb6%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639246263301966940%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=RFeouZBPeExweHiskDUVbA5RpBb5susmn%2BP9iGaPRbM%3D&reserved=0>\n\nVoor eventuele vragen kun je terecht bij opleider of contactpersoon\n\nOpleider Wyzer Academie B.V.\n\n  *   Opleider email: online@wyzer.nl\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxUkMGOmzAQhp8GbkTYOLY5cIAkqFnalN0kS-gFYWyCN-BkbZNd8vTVthxaaaT5NBp9M_p5hBDzuSsiQGjowxCFS7eLaIAZEIyKIKSIwAYzEC5rTltIWUgb5MoI1zXEDSEUUsyqUEAKAUaAYgwgaR3ky5sH_K9CHiCLoZa920edtTfjBLEDUwemrG4uQvGFsSOf7MjEQvUOTHtprDcqMzLTaMnE1-b-2-fx4cAlXMJUgxk26eEvJUn80qzMz9fTUV_snqXlVGoo-iQryqEbRUH1j_00vBr4a5UfB5RvS1J0XZltjvbFXtZTcbo9P8dmtrWq4ShLV8ukPfTms8gy_7QVfH1-otmO4h0hYzm_MIUb2V_P_E1-_JkE67l53sSesm0z5IeyJUOySTxvxPMBkM3weIO7_FAP6_fvKn_I-H-Hq6P2zrvrXSgH-R_TQ-iF6l0bCXV3gvjf2Fwb2ekmnCC2upZKqnOlxfsojK2aq2qlHgSv2quuRiO0e4_g7wAAAP__Jcmbwg&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Cf1d7fd5a415b4fb7ec9a08df0f16dbb6%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639246263302011623%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=wYSs9wGNJQxFsIDD9uJN8gEqW6XSw2A50wBlK1vJbBc%3D&reserved=0>\n\n\n
-UID:9313c384-b162-4169-8d1c-b3e69f662a9b
-SUMMARY:Training verdieping dynamiek binnen gemeente
+DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nDe sessie 04 nov 2026 voor opleidingsdag: Verdieping dynamiek binnen de gemeente 5086 is geannuleerd.\n\n  *   Wat: Verdieping dynamiek binnen de gemeente 5086\n  *   Wanneer/waar:\n     *   04 nov 2026 10:00 - 16:30\, Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland\n  *   Opleidingsdag type: opleiding\n  *   Contactpersoon: Opleidingsadviseurs Academie (online@wyzer.nl)\n\nProbeer je te registeren voor een andere datum en locatie<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMjTFuxCAQAF8D3Z0WFsNRULjxNyxg17IlwlkHR-S8PkrSRJpyRkPBmAQkOSjn0XrvrJZ7eNCWNCI-wPpoOWeHCCYrlZFy0l4ewUb2cUvKQYx2xTwZR9YCpQw4aZeVMHCcNwU_mJs29v4RjyJL2Hs_m8BZ6EXo5fP64te99Tdd_Z34XovQCw-uvQm9qAlgmuQrbIP25-AqDPwVtcge-nWywPlXX8sxeG3c2vGsK3HhziR74DoEzv8HcgT9HQAA__8Jx03Y&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Cf762b2873f6b4ce7529508df3990ab82%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639292966050649529%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KEXKl8Fzv1ZkMAYHavZeh%2F5w7GUNw0WDcOboeNhGhiM%3D&reserved=0> datum en locatie of neem contact op met de organisatoren.\n\n\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxUkMGOmzAYhJ_G3IjgtzHLgQObXZSqCVqSbMPmEhn8Z7FwgMXGafL0VdscWmmkkT7NdxmZMlYH0sM0jBPKkyTm4LUpngUAZSymLExieWZCIvAEJBUxr58aT6VcYCLOdRgHQvATbSIWS84DWTcBjSBuQsICNfph8DvMB8YXF6G0p9PW2tEQmhHICeS1aDrs5cLYWd7sXOOi1wRyrYz1597MtWkmVSOBnMt8VdDjfW-Ha_RFj6rMPqf1ACv3LXvV-5f8styPolweKhNWXT7M28szgQgiyDfvP4qi0dVKXlS539QPfC-fDlsYnXEh6yvYfapqv8tl55Z693fyfFjS7vu8huihrGn7RqcvLI4f0fUPoy-P8v23j23hNsufQRixXVe1vl8c6ZyM7RHsexJE2Wt1j7uy_N_zpvTsZDs47AkLrrc7Toteeza1txEJzdBhb09aOTwZNEYN_UmiRovSsyn2jtDs3_M8l8KvAAAA__8e2pEu&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Cf762b2873f6b4ce7529508df3990ab82%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639292966050668959%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=cdfFINIpMxPsboWOQ3l8vChbROsVRSSdOuYAFkxTgPg%3D&reserved=0>\n\n\n
+UID:9d7cd24c-7041-4a9a-a63b-ec71090d1de8
+SUMMARY:Een datum van Verdieping dynamiek binnen de gemeente 5086 is geannuleerd
 DTSTART;TZID=W. Europe Standard Time:20261104T100000
 DTEND;TZID=W. Europe Standard Time:20261104T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
-TRANSP:OPAQUE
+DTSTAMP:20261113T140010Z
+TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-SEQUENCE:1
-LOCATION:Wyzer Utrecht\, Herculesplein 88\, 3584 AA  UTRECHT\, Herculesplein 88
-X-MICROSOFT-CDO-APPT-SEQUENCE:1
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+SEQUENCE:2
+LOCATION:Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland
+X-MICROSOFT-CDO-APPT-SEQUENCE:2
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
 X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
 X-MICROSOFT-CDO-IMPORTANCE:1
@@ -539,18 +539,18 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nDe sessie 04 nov 2026 voor opleidingsdag: Verdieping dynamiek binnen de gemeente 5086 is geannuleerd.\n\n  *   Wat: Verdieping dynamiek binnen de gemeente 5086\n  *   Wanneer/waar:\n     *   04 nov 2026 10:00 - 16:30\, Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland\n  *   Opleidingsdag type: opleiding\n  *   Contactpersoon: Opleidingsadviseurs Academie (online@wyzer.nl)\n\nProbeer je te registeren voor een andere datum en locatie<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMjTFuxCAQAF8D3Z0WFsNRULjxNyxg17IlwlkHR-S8PkrSRJpyRkPBmAQkOSjn0XrvrJZ7eNCWNCI-wPpoOWeHCCYrlZFy0l4ewUb2cUvKQYx2xTwZR9YCpQw4aZeVMHCcNwU_mJs29v4RjyJL2Hs_m8BZ6EXo5fP64te99Tdd_Z34XovQCw-uvQm9qAlgmuQrbIP25-AqDPwVtcge-nWywPlXX8sxeG3c2vGsK3HhziR74DoEzv8HcgT9HQAA__8Jx03Y&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Cf762b2873f6b4ce7529508df3990ab82%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639292966050649529%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=KEXKl8Fzv1ZkMAYHavZeh%2F5w7GUNw0WDcOboeNhGhiM%3D&reserved=0> datum en locatie of neem contact op met de organisatoren.\n\n\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxUkMGOmzAYhJ_G3IjgtzHLgQObXZSqCVqSbMPmEhn8Z7FwgMXGafL0VdscWmmkkT7NdxmZMlYH0sM0jBPKkyTm4LUpngUAZSymLExieWZCIvAEJBUxr58aT6VcYCLOdRgHQvATbSIWS84DWTcBjSBuQsICNfph8DvMB8YXF6G0p9PW2tEQmhHICeS1aDrs5cLYWd7sXOOi1wRyrYz1597MtWkmVSOBnMt8VdDjfW-Ha_RFj6rMPqf1ACv3LXvV-5f8styPolweKhNWXT7M28szgQgiyDfvP4qi0dVKXlS539QPfC-fDlsYnXEh6yvYfapqv8tl55Z693fyfFjS7vu8huihrGn7RqcvLI4f0fUPoy-P8v23j23hNsufQRixXVe1vl8c6ZyM7RHsexJE2Wt1j7uy_N_zpvTsZDs47AkLrrc7Toteeza1txEJzdBhb09aOTwZNEYN_UmiRovSsyn2jtDs3_M8l8KvAAAA__8e2pEu&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Cf762b2873f6b4ce7529508df3990ab82%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639292966050668959%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=cdfFINIpMxPsboWOQ3l8vChbROsVRSSdOuYAFkxTgPg%3D&reserved=0>\n\n\n
-UID:9d7cd24c-7041-4a9a-a63b-ec71090d1de8
-SUMMARY:Een datum van Verdieping dynamiek binnen de gemeente 5086 is geannuleerd
+DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\nDe details zijn bijgevoegd bij deze e-mail.\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMkM-O2jocRp_G2QX5X0iy8CIXCHNnCu0wyjB0g-KfHWIIJhObpObpq1azqPRJn3Q2RzpKcC6xirQgac4TllPKolYwyKXGNYc6yyg00FCVaSkbyYkmNIfIiHndzFOtUg4JZEc616kkJAGqWJ2RlOQ4zRHHpo8J_jMeUz6fXWvTRZ1ove8dYgWiJaKlrOGirZo5f1fB36We2Q7RsjPOx3fr7tLBYKRGtNz82g0vMH3iJqNP0-uqWm35O6IJTWhJTLnYbFlelS92vXtz4by5bK_rfbYD_D5-f-vX076yYTGU_bYK54dMhuW36vbs7P8TA_L0QzN1yABfyM_GszY8DofiYmH1jOOYn4ukXuzCYtPC9WOUcaxOmd9_md3yNSSJ_vy4Fvy_8XD6i9ny66JBNKNqb6O2iOMpPPQws13khQ-9Rqww4I7Q1vakj_bmTWP0EHmh7YhY8W-RaBT0dwAAAP__3TiH9A&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ca33990c9bd7840caa5fb08df41333170%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639301360602865858%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=IV88e4xlmKPeqepcdOoSaTCHNAn5DUmSjpbfBZO1iAA%3D&reserved=0>\n\n\n
+UID:9313c384-b162-4169-8d1c-b3e69f662a9b
+SUMMARY:Training verdieping dynamiek binnen gemeente - Datum is geannuleerd.
 DTSTART;TZID=W. Europe Standard Time:20261104T100000
 DTEND;TZID=W. Europe Standard Time:20261104T163000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:2
-LOCATION:Utrecht\, Herculesplein 88\, 3584 AA Utrecht\, Nederland
+LOCATION:Wyzer Utrecht\, Herculesplein 88\, 3584 AA  UTRECHT\, Herculesplein 88
 X-MICROSOFT-CDO-APPT-SEQUENCE:2
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
@@ -571,7 +571,7 @@ DTSTART;TZID=W. Europe Standard Time:20261104T103000
 DTEND;TZID=W. Europe Standard Time:20261104T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -595,7 +595,7 @@ DTSTART;TZID=W. Europe Standard Time:20261104T120000
 DTEND;TZID=W. Europe Standard Time:20261104T130000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:3
@@ -620,7 +620,7 @@ DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -644,7 +644,7 @@ DTSTART;TZID=W. Europe Standard Time:20261109T133000
 DTEND;TZID=W. Europe Standard Time:20261109T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -668,7 +668,7 @@ DTSTART;TZID=W. Europe Standard Time:20261110T110000
 DTEND;TZID=W. Europe Standard Time:20261110T113000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -693,7 +693,7 @@ DTSTART;TZID=W. Europe Standard Time:20261111T103000
 DTEND;TZID=W. Europe Standard Time:20261111T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:12
@@ -717,7 +717,7 @@ DTSTART;TZID=W. Europe Standard Time:20261111T140000
 DTEND;TZID=W. Europe Standard Time:20261111T153000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -740,7 +740,7 @@ DTSTART;TZID=W. Europe Standard Time:20261111T140000
 DTEND;TZID=W. Europe Standard Time:20261111T153000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -764,7 +764,7 @@ DTSTART;TZID=W. Europe Standard Time:20261111T140000
 DTEND;TZID=W. Europe Standard Time:20261111T153000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -788,7 +788,7 @@ DTSTART;TZID=W. Europe Standard Time:20261116T130000
 DTEND;TZID=W. Europe Standard Time:20261116T150000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -812,7 +812,7 @@ DTSTART;TZID=W. Europe Standard Time:20261116T130000
 DTEND;TZID=W. Europe Standard Time:20261116T150000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
@@ -837,7 +837,7 @@ DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:4
@@ -862,7 +862,7 @@ DTSTART;TZID=W. Europe Standard Time:20261118T103000
 DTEND;TZID=W. Europe Standard Time:20261118T120000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:3
@@ -886,7 +886,7 @@ DTSTART;TZID=W. Europe Standard Time:20261118T130000
 DTEND;TZID=W. Europe Standard Time:20261118T140000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:0
@@ -911,7 +911,7 @@ DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:6
@@ -936,7 +936,7 @@ DTSTART;TZID=W. Europe Standard Time:20261125T090000
 DTEND;TZID=W. Europe Standard Time:20261125T093000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 SEQUENCE:2
@@ -953,18 +953,42 @@ X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
 X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Beste allemaal\,\n\nOp woensdag 25 november staat onze teamdag met ons Wyzer Adviesteam Ruimte (WAR) gepland. Een dag waarop we bewust de tijd nemen om met elkaar vooruit te kijken naar de verdere ontwikkeling van ons team én onze dienstverlening.\n\nCentraal tijdens deze dag staat de vraag:\n\nHoe maken we als Wyzer de beweging van het leveren van individuele inzet naar het gezamenlijk aannemen en realiseren van resultaatgerichte opdrachten? En wat vraagt dit van onze commerciële aanpak\, samenwerking en verantwoordelijkheid voor het eindresultaat?\n\nWe gaan hierover niet alleen met elkaar in gesprek\, maar vooral ook actief aan de slag. In het inhoudelijke programma\, door Ewout Bomert\,  kijken we naar waar we als team nu staan\, welke beweging we willen maken en wat dit concreet van ons vraagt. We werken afwisselend plenair en in kleinere groepen en staan onder andere stil bij onze manier van samenwerken\, onze commerciële rol en hoe we gezamenlijk meer verantwoordelijkheid kunnen nemen voor het resultaat bij onze opdrachtgevers.\n\nHet doel is om aan het einde van het inhoudelijke deel niet alleen nieuwe inzichten te hebben\, maar vooral ook een gezamenlijk beeld van waar we naartoe willen en wat daarvoor nodig is.\n\nProgramma in grote lijnen\;\n\n09.30 uur – Start inhoudelijk programma\nWe trappen gezamenlijk af en gaan vervolgens aan de slag met de centrale vraag en de ontwikkeling van Team Advies Ruimte.\n\n12.00 – 13.00 uur – Lunch\nTijd om samen te lunchen.\n\n13.00 – circa 14.30 a 15.00 uur – Vervolg inhoudelijk programma\nWe brengen de verschillende inzichten bij elkaar en maken de vertaalslag naar concrete vervolgstappen.\n\nDaarna is er even ruimte voordat we het programma vanaf 16.00 uur op een andere locatie voortzetten. Wat we daar precies gaan doen\, houden we nog even voor onszelf 😉.\n\nReken in ieder geval op een informele en gezellige afsluiting van de dag met elkaar.\n\nLocatie ochtend en middag\nNewpublic\nUtrechtseweg 2-4\n\nBij het kantoor zelf zijn slechts enkele parkeerplekken beschikbaar. Parkeren kan in ieder geval ook bij Utrechtseweg 2-4\, op de locatie waar het toekomstige appartementengebouw Sam & Sophie met 15 verdiepingen wordt gerealiseerd. Je kunt de parkeerkosten achteraf declareren.\n\nReserveer de dag dus volledig in je agenda. We kijken ernaar uit om samen een inhoudelijke\, inspirerende én gezellige dag te hebben!\n\nTot 25 november!\n\nBrenda Dannijs\nAdviseur publieke sector\n\n[Afbeelding met tekst\, teken  Automatisch gegenereerde beschrijving]<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwyzer.nl%2F&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7C166b915d140440638bf908df3b560f17%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639294912970035204%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5Ul%2BLMTceRiGhggLPqJ1But4WAGu7w%2BEyT864kE6UEA%3D&reserved=0>\nbdannijs@wyzer.nl<mailto:bdannijs@wyzer.nl>\n06 22 09 11 17\n[cid:image002.png@01DD6D40.482AEC50]<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felly-de-groot%2F&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7C166b915d140440638bf908df3b560f17%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639294912970055977%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=k5D68ixJw1k4UyMq0LZbZTgS5CmCX57QGLupP8pwFF4%3D&reserved=0>\nHerculesplein 88\, 3584 AA Utrecht | wyzer.nl<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.wyzer.nl%2F&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7C166b915d140440638bf908df3b560f17%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639294912970066961%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ycyNmAcBCezHRMAR0fwRGD413kYzVw4MAJaQCBvxZqU%3D&reserved=0>\nUtrechtseweg 12\, 3811 NB Amersfoort | newpublic.nl<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.newpublic.nl%2F&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7C166b915d140440638bf908df3b560f17%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639294912970077638%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2F4U%2Fqj5%2F8hXH7zWcub2fiWO21Q%2B7YOyFGyTG6R%2FERjU%3D&reserved=0>\n[cid:image003.png@01DD6D40.482AEC50]\n\n
+DESCRIPTION:Beste allemaal\,\n\nOp woensdag 25 november staat onze teamdag met ons Wyzer Adviesteam Ruimte (WAR) gepland. Een dag waarop we bewust de tijd nemen om met elkaar vooruit te kijken naar de verdere ontwikkeling van ons team én onze dienstverlening.\n\nCentraal tijdens deze dag staat de vraag:\n\nHoe maken we als Wyzer de beweging van het leveren van individuele inzet naar het gezamenlijk aannemen en realiseren van resultaatgerichte opdrachten? En wat vraagt dit van onze commerciële aanpak\, samenwerking en verantwoordelijkheid voor het eindresultaat?\n\nWe gaan hierover niet alleen met elkaar in gesprek\, maar vooral ook actief aan de slag. In het inhoudelijke programma\, door Ewout Bomert\,  kijken we naar waar we als team nu staan\, welke beweging we willen maken en wat dit concreet van ons vraagt. We werken afwisselend plenair en in kleinere groepen en staan onder andere stil bij onze manier van samenwerken\, onze commerciële rol en hoe we gezamenlijk meer verantwoordelijkheid kunnen nemen voor het resultaat bij onze opdrachtgevers.\n\nHet doel is om aan het einde van het inhoudelijke deel niet alleen nieuwe inzichten te hebben\, maar vooral ook een gezamenlijk beeld van waar we naartoe willen en wat daarvoor nodig is.\n\nProgramma in grote lijnen\;\n\n09.30 uur – Start inhoudelijk programma\nWe trappen gezamenlijk af en gaan vervolgens aan de slag met de centrale vraag en de ontwikkeling van Team Advies Ruimte.\n\n12.00 – 13.00 uur – Lunch\nTijd om samen te lunchen.\n\n13.00 – circa 14.30 a 15.00 uur – Vervolg inhoudelijk programma\nWe brengen de verschillende inzichten bij elkaar en maken de vertaalslag naar concrete vervolgstappen.\n\nDaarna is er even ruimte voordat we het programma vanaf 16.00 uur op een andere locatie voortzetten. Wat we daar precies gaan doen\, houden we nog even voor onszelf 😉.\n\nReken in ieder geval op een informele en gezellige afsluiting van de dag met elkaar.\n\nLocatie ochtend en middag\nNewpublic\nUtrechtseweg 2-4\n\nBij het kantoor zelf zijn slechts enkele parkeerplekken beschikbaar. Parkeren kan in ieder geval ook bij Utrechtseweg 2-4\, op de locatie waar het toekomstige appartementengebouw Sam & Sophie met 15 verdiepingen wordt gerealiseerd. Je kunt de parkeerkosten achteraf declareren.\n\nReserveer de dag dus volledig in je agenda. We kijken ernaar uit om samen een inhoudelijke\, inspirerende én gezellige dag te hebben!\n\nTot 25 november!\n\nBrenda Dannijs\nAdviseur publieke sector\n\n[Afbeelding met tekst\, teken  Automatisch gegenereerde beschrijving]<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwyzer.nl%2F&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Cb2ca2d07b3704cae8b8f08df4173ea06%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639301664374348367%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=xZn%2BG7K%2BjTLx68ItxHuE3tcTvUHHIyfUC736VC5wx30%3D&reserved=0>\nbdannijs@wyzer.nl<mailto:bdannijs@wyzer.nl>\n06 22 09 11 17\n[cid:image002.png@01DD6D40.482AEC50]<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felly-de-groot%2F&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Cb2ca2d07b3704cae8b8f08df4173ea06%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639301664374369411%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=I7OrelNfLOj5J%2BcJK3A4W3yRniYoYemFGBmkl4ma94c%3D&reserved=0>\nHerculesplein 88\, 3584 AA Utrecht | wyzer.nl<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.wyzer.nl%2F&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Cb2ca2d07b3704cae8b8f08df4173ea06%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639301664374382544%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=%2FhUyV5v4RT81cGcbue2tReOyvex4GyTvZORHPl3eVyg%3D&reserved=0>\nUtrechtseweg 12\, 3811 NB Amersfoort | newpublic.nl<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.newpublic.nl%2F&data=05%7C02%7Cfvdhoven%40Wyzer.nl%7Cb2ca2d07b3704cae8b8f08df4173ea06%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639301664374394447%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=njzQiRSNw5qb7AG7Nv7hHkbyqqPxT94gHv7%2F%2Bk05ksM%3D&reserved=0>\n[cid:image003.png@01DD6D40.482AEC50]\n\n
 UID:040000008200E00074C5B7101A82E0080000000090B05D133E6DDD01000000000000000010000000AC8B7EF4B4FCA94F94C63BC57B44FBBB
 SUMMARY:Heidag Team Advies 
 DTSTART;TZID=W. Europe Standard Time:20261125T091500
 DTEND;TZID=W. Europe Standard Time:20261125T191500
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:4
+LOCATION:Utrechtseweg 12\, 3811 NB Amersfoort
+X-MICROSOFT-CDO-APPT-SEQUENCE:4
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:FALSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Let op: Dit is een externe e-mail en kan schadelijk zijn. Controleer of je het e-mailadres herkent voordat je links of bijlagen opent.\n\n\nBeste Florence\,\n\nJe staat ingeschreven voor Training verdieping dynamiek binnen gemeente\, de datum hiervan is gewijzigd:\n\n  *   Aanvraagnummer: 298221\n  *   Opleider: Wyzer Academie B.V.\n  *   opleidingsaanbod: Training verdieping dynamiek binnen gemeente\n\n  *   Locatie: Wyzer Utrecht\, Herculesplein 88\, 3584 AA UTRECHT\, Herculesplein 88\n  *   Wanneer:\n     *   04 nov 2026 10:00 - 16:30\n\n  *   Locatie: Wyzer Utrecht\, Herculesplein 88\, 3584 AA UTRECHT\, Herculesplein 88\n  *   Wanneer:\n     *   25 nov 2026 10:00 - 16:30\n\nKijk hieronder voor meer informatie over je deelname.\nTraining verdieping dynamiek binnen gemeente<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMzcGKqCAUgOGn0V3hsVPWwkWbXkM0jzehrKvW0Dz9MAwDA__24_ca0QnPSYOasO8mCYpvWnQghF3dSMGGyfeOACYaJ4nUj8GuPOrBhkGRF44IhJEDKQfQr8I6P4KCcUCGIl4NiO-wkTi0h4073_VW61VYNzO5MLl8vJ-U21Jv_9bbUZt2Jpd1t6Xk8zyamm1MMf0rTC6olBTIsw6P386HEkPxw9POq67vRayb1zOFmA_y5teaTP9vKtXcl7eVvAlnNnehzKum9LBu_rvnj5ZfAQAA__8DqFr5&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ce8c9098c614b4aeae2a408df41332d92%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639301360461766252%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=ffYc2F8j2aOqkYbkDkSkLvgtk4JD8B5hG1%2BD25cCOwQ%3D&reserved=0>\n\nHeb je vragen? Neem dan contact op met onderstaande opleider of contactpersoon:\n\nOpleider Wyzer Academie B.V.\n\n  *   Opleider email: online@wyzer.nl\n\nMet vriendelijke groet\,\n\nWyzer Academie\n\n[Wyzer Academie]\n\nDeze e-mail is verzonden door Studytube namens Wyzer.\nStudytube B.V. KVK:51290901\n\nAfmelden<https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Femail.studytube.nl%2Fc%2FeJxMkMuu2jAQhp8m2QXZjnNbZAEF6xRSeiiXVmwiX8bgkmMgdgLk6au2qVRppJFmPn2_9KuSUoFUCCXOCprEBcFZeC6pyhOkkJJU5DGOda7jBDJZcKRRXKgiNGXKdZqBQgIAo5qkkAmME4m4UDnOcJ7SgCJzizD6PTQiNJ18cNOETXn2_uaCeBoQFhAmuLyAVRPnO_XynYCJbQLCGuN81FnXCSdbIyAgLCdnGpCEJITZ-PhzuB32j6Ww7_muSz_R9FVUZFucKvpwc3m1i-e3t8_Hv_wM3QdUJfc-l-y62r7UqBm_iuuZffiv-jAe5lucQb5eX-bsaFf_Mr_v7Tnf74ZBVOzdrJo3l-lNz9Xy2OEHY6djBT35cWBrOdDt5nlxeLmJIuOb0VrxxdRIaRr6BUXR1qvnstK-6fvV86LcLp0tss0fNJ6PK2xL3avztQcbUPR4DdBObBP60r9uEMRTebXatB-gat9yY4091S3cO3C-7m6Ke1C1vrZ156ANfQm2D-Lp_z2HfUl-BQAA__-5GqIL&data=05%7C02%7Cfvdhoven%40wyzer.nl%7Ce8c9098c614b4aeae2a408df41332d92%7C3fe99b51e7b84586ac15d51c0df4d4a4%7C0%7C0%7C639301360461782135%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=b5N%2FfWxOHXje7I04%2FJp6p93CV37J2kdh0LPysdJjoIc%3D&reserved=0>\n\n\n
+UID:b54805e0-0147-49ce-8fe0-da19dc9d4c28
+SUMMARY:Training verdieping dynamiek binnen gemeente
+DTSTART;TZID=W. Europe Standard Time:20261125T100000
+DTEND;TZID=W. Europe Standard Time:20261125T163000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
-LOCATION:Utrechtseweg 12\, 3811 NB Amersfoort
+LOCATION:Wyzer Utrecht\, Herculesplein 88\, 3584 AA  UTRECHT\, Herculesplein 88
 X-MICROSOFT-CDO-APPT-SEQUENCE:1
 X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
 X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
@@ -985,7 +1009,7 @@ DTSTART;TZID=W. Europe Standard Time:20261202T090000
 DTEND;TZID=W. Europe Standard Time:20261202T170000
 CLASS:PUBLIC
 PRIORITY:5
-DTSTAMP:20261112T144326Z
+DTSTAMP:20261113T140010Z
 TRANSP:OPAQUE
 STATUS:CONFIRMED
 SEQUENCE:1
